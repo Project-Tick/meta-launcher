@@ -12,12 +12,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Move directory
+      - name: Move directory (except _site and .github)
         run: |
-          to_move=$(echo *)
-          mkdir -p _site/
-          mv $to_move _site/
-          cp .github/CNAME _site/CNAME
+          mkdir _site
+          shopt -s extglob
+          mv !( _site|.github ) _site/
+          cp .github/CNAME _site/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4

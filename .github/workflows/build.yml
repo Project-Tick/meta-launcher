@@ -21,6 +21,7 @@ jobs:
             fi
           done
           cp .github/CNAME _site/CNAME
+          touch _site/.nojekyll
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4

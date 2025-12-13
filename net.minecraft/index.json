@@ -11465,9 +11465,9 @@
                     "uid": "org.lwjgl"
                 }
             ],
-            "sha256": "c1e7aacc74791e7af85a633e99e6372d3b46c7eabd691354d9fb617895737035",
+            "sha256": "14cdfbdf0c4ee871fdbc1492eeeea146ad267a6a2d01832347bee3f640e3e077",
             "type": "old_snapshot",
-            "version": "12w07b"
+            "version": "12w07a"
         },
         {
             "recommended": false,
@@ -11478,9 +11478,9 @@
                     "uid": "org.lwjgl"
                 }
             ],
-            "sha256": "14cdfbdf0c4ee871fdbc1492eeeea146ad267a6a2d01832347bee3f640e3e077",
+            "sha256": "c1e7aacc74791e7af85a633e99e6372d3b46c7eabd691354d9fb617895737035",
             "type": "old_snapshot",
-            "version": "12w07a"
+            "version": "12w07b"
         },
         {
             "recommended": false,

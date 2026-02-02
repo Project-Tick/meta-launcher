@@ -13,7 +13,7 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "edbeaf522537edd8d7d84402a71d6f3d71de5e48c147a4d80896b8878e21d009",
+            "sha256": "8bde0c5199e26edbf7b4978ce6da9993d2504a41d7e8bb8fb60178ddfc3f784c",
             "uid": "net.adoptium.java"
         },
         {
@@ -33,7 +33,7 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "f54c645d5a8a5eb9aee0177b1327062aaec0861d8123023d3cc192fab5e76bb9",
+            "sha256": "13c1c9fdb31fa5391fc73d379bf2e943907e1c1d634302adc75681429ad38875",
             "uid": "net.minecraft.java"
         },
         {

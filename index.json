@@ -23,12 +23,12 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "c6eaf636992727f7318773d9312e141cb5aeda54ca691ae1b29122a320c1bf36",
+            "sha256": "93dea7b506d0af05aa08b709fcb5850662df03b96204b48b0c89eb30405bc313",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "526879ad3749504e5d58bd5780e10d880b1113f3bb79459b154df6b68ec92fcf",
+            "sha256": "bc6f0afb6dff619404670df6261518821f24fec3c00be19408931f5e8f51d4aa",
             "uid": "net.minecraft"
         },
         {

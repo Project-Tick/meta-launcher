@@ -13,7 +13,7 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "95d468eed98181dc55157651905f9e513864ea4db3303e18baa68692a923b67f",
+            "sha256": "e7206b306569b5bd539b71dda4d03843dd3f5da3cad974c722af073290368acf",
             "uid": "net.adoptium.java"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "name": "NeoForge",
-            "sha256": "ae8ae857c38d3f2df13fa5f71756542d2f0015f6033e391f9e22339a280a8635",
+            "sha256": "17c294b2b2c0f79a57451dd0ef4e7300d1b11158f0579dc3346a9a759970652b",
             "uid": "net.neoforged"
         },
         {
@@ -53,7 +53,7 @@
         },
         {
             "name": "LWJGL 3",
-            "sha256": "6e936bcfa11ce125e7c2344a2ce19bf4d7bdaf9b4156ad11eb08468a2e9ccd7b",
+            "sha256": "f624ce6e3d09a927ad240dbc8b54d357e4be1fa6332f70039df0330ea5218861",
             "uid": "org.lwjgl3"
         },
         {

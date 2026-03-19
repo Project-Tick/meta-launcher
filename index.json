@@ -7,6 +7,11 @@
             "uid": "com.azul.java"
         },
         {
+            "name": "Java Runtimes",
+            "sha256": "34bedbadf99d6c416683a039ac87d2e85807989ce92514315428789cb3af9052",
+            "uid": "com.ibm.java"
+        },
+        {
             "name": "LiteLoader",
             "sha256": "21ed39d05d19449287bb3dbc19fd395d4fa12aefb3f0fe1846e008f28e6e4d95",
             "uid": "com.mumfrey.liteloader"
@@ -33,7 +38,7 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "93a288fa288d31128d26c7e28e1b9814e8e98f8ef5ef87ee3c254afe884d501f",
+            "sha256": "b6afabb4426c12ece5738b258d9f0e78a7422926e40922e42971dbc254a6e25c",
             "uid": "net.minecraft.java"
         },
         {

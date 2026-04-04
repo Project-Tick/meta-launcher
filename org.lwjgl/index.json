@@ -10,8 +10,8 @@
                 }
             ],
             "recommended": false,
-            "releaseTime": "2017-05-10T11:37:17+00:00",
-            "sha256": "db1eb899f02e779cdd4ac07d81ee359e261f5d995203f539173d6862cca63bd2",
+            "releaseTime": "2016-06-02T14:45:16+00:00",
+            "sha256": "cb54004cecb8b4c4583c1ca6d5591d3b8c24976a2b94810edef5cd79904ecd77",
             "type": "release",
             "version": "2.9.4-nightly-20150209",
             "volatile": true

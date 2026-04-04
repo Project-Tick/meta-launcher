@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "e1d0d89391fe5505fbeba068333b2b985354d1a420f4f34ca9bc8b12ba456e87",
+                    "size": 2037305,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.9.4_HD_U_D8.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U D8",
+    "order": 10,
+    "releaseTime": "2017-05-04T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.9.4_HD_U_D8"
+}

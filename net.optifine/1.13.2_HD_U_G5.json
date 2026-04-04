@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "b23510a2df1f3dd6d94e22eab7e7b16c5e53f242396cb41ebeeedab56f57bb71",
+                    "size": 2766461,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.13.2_HD_U_G5.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U G5",
+    "order": 10,
+    "releaseTime": "2021-01-24T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.13.2_HD_U_G5"
+}

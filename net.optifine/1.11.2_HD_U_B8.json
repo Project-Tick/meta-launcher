@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "07cc65b3928b2252c065547c35dea2ca63f126185afb22bb61b8e0b27e972d1d",
+                    "size": 2050500,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.11.2_HD_U_B8.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U B8",
+    "order": 10,
+    "releaseTime": "2017-05-04T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.11.2_HD_U_B8"
+}

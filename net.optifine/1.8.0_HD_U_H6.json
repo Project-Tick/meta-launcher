@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "b10b3f73f6b0d815e97f87abbac3cdef7c24d9414c023a2e8d72c6afed8f0dc6",
+                    "size": 1738938,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.8.0_HD_U_H6.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U H6",
+    "order": 10,
+    "releaseTime": "2016-06-07T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.8.0_HD_U_H6"
+}

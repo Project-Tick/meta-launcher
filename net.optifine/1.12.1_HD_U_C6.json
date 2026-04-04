@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "a15a45aaab47fb4c040a442a148b7215e768dcb49ec17b733a5f6f26dbecebd8",
+                    "size": 2156682,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.12.1_HD_U_C6.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U C6",
+    "order": 10,
+    "releaseTime": "2017-10-03T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.12.1_HD_U_C6"
+}

@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "c088dee95cfadd135f1676f4f05ca2791be75e473a82b84f657f9591c3804429",
+                    "size": 2016259,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.10.2_HD_U_D7.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U D7",
+    "order": 10,
+    "releaseTime": "2017-03-14T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.10.2_HD_U_D7"
+}

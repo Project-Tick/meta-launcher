@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "0b67cb670aedf2e55a982f3d52b6d53e46791a0c984aa1d2ee58100fc9bfc650",
+                    "size": 7145205,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.20.1_HD_U_I6.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U I6",
+    "order": 10,
+    "releaseTime": "2023-12-21T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.20.1_HD_U_I6"
+}

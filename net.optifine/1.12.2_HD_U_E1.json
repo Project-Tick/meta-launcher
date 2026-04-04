@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "51b84cfb29b5e2a91298b17a64d535036fdbbd9ef77da0c4b49fdf2c2d02a9f1",
+                    "size": 2422035,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.12.2_HD_U_E1.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U E1",
+    "order": 10,
+    "releaseTime": "2018-06-28T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.12.2_HD_U_E1"
+}

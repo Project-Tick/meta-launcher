@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "d1954b4e6e694240338c63b1bd522398663860dd3e741f42fe6ab954743977cc",
+                    "size": 7425503,
+                    "url": "https://optifine.net/downloadx?f=preview_OptiFine_1.21.4_HD_U_J4_pre1.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U J4 pre1",
+    "order": 10,
+    "releaseTime": "2025-02-18T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "preview_OptiFine_1.21.4_HD_U_J4_pre1"
+}

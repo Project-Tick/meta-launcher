@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "3c76bc90ed44bce567cee7c20eb2c4361926f23a86e5367d596f6e624d0b494f",
+                    "size": 6046996,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.16.5_HD_U_G8.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U G8",
+    "order": 10,
+    "releaseTime": "2021-05-15T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.16.5_HD_U_G8"
+}

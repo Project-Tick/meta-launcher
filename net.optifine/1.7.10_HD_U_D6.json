@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "415cba487ea5eddca981c6a00a5426236f8df36c635f5808aba227ad96d1b478",
+                    "size": 1222159,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.7.10_HD_U_D6.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U D6",
+    "order": 10,
+    "releaseTime": "2016-06-29T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.7.10_HD_U_D6"
+}

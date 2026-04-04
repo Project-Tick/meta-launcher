@@ -1,0 +1,12 @@
+{
+    "description": "OptiFine installer and downloads",
+    "formatVersion": 1,
+    "name": "OptiFine",
+    "projectUrl": "https://optifine.net",
+    "recommended": [
+        "1.21.11_HD_U_J9",
+        "1.21.11_HD_U_J8",
+        "preview_OptiFine_1.21.10_HD_U_J7_pre11"
+    ],
+    "uid": "net.optifine"
+}

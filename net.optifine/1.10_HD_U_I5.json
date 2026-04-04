@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "a0a3ac68d16738a7e158b0c3606ff467887f6420edc89592f4b5cf68a000a5cd",
+                    "size": 2644304,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.10_HD_U_I5.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U I5",
+    "order": 10,
+    "releaseTime": "2021-01-24T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.10_HD_U_I5"
+}

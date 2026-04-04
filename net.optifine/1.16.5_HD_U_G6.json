@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "8a717d779878954bdad8ac961041343fe155d942705c3eed98f0e057a40c3e8b",
+                    "size": 5835761,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.16.5_HD_U_G6.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U G6",
+    "order": 10,
+    "releaseTime": "2021-01-16T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.16.5_HD_U_G6"
+}

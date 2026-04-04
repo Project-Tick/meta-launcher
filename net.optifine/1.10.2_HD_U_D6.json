@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "bb84c3a22ef23801fb661f7657bafc0e040e6bac03968d181145831c69081808",
+                    "size": 1987653,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.10.2_HD_U_D6.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U D6",
+    "order": 10,
+    "releaseTime": "2017-01-12T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.10.2_HD_U_D6"
+}

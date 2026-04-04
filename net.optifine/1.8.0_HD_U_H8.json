@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "8d862d71ccac7e93abedafe9a50f045f0db3e41599bbe1e978f125e22c346d9a",
+                    "size": 1828470,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.8.0_HD_U_H8.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U H8",
+    "order": 10,
+    "releaseTime": "2017-05-04T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.8.0_HD_U_H8"
+}

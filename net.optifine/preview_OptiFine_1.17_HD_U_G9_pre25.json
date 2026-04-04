@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "9db94bf6ee7dd59b9568ec4d23cd1ca00b4b6f9517a4121d61e6e2905bfa1070",
+                    "size": 6306639,
+                    "url": "https://optifine.net/downloadx?f=preview_OptiFine_1.17_HD_U_G9_pre25.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U G9 pre25",
+    "order": 10,
+    "releaseTime": "2021-07-06T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "preview_OptiFine_1.17_HD_U_G9_pre25"
+}

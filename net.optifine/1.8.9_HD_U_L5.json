@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "b442bf55e4c703c55f5f48055d79c07eb853fcb76fa88f85587e911af4f2b084",
+                    "size": 2517183,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.8.9_HD_U_L5.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U L5",
+    "order": 10,
+    "releaseTime": "2019-12-04T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.8.9_HD_U_L5"
+}

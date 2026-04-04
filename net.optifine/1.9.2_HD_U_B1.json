@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "564484d61685d944fbddfc5faca284bec35542765188fb9e7703af1870c62af8",
+                    "size": 1652960,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.9.2_HD_U_B1.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U B1",
+    "order": 10,
+    "releaseTime": "2016-04-02T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.9.2_HD_U_B1"
+}

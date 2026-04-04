@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "fa8a6c5aefeef9753d164bd8dd681a30a403f24e2249479a774da7fce28f4c23",
+                    "size": 1654394,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.8.9_HD_U_H5.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U H5",
+    "order": 10,
+    "releaseTime": "2016-03-20T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.8.9_HD_U_H5"
+}

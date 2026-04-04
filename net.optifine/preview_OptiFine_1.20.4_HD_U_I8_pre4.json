@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "eecdbd9dee45ba9c69361d1b7edf728475035121a3c6ffcb4e240a644bb680a5",
+                    "size": 7325107,
+                    "url": "https://optifine.net/downloadx?f=preview_OptiFine_1.20.4_HD_U_I8_pre4.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U I8 pre4",
+    "order": 10,
+    "releaseTime": "2024-03-23T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "preview_OptiFine_1.20.4_HD_U_I8_pre4"
+}

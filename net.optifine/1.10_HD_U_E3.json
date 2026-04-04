@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "9f1cc1a58a0893d5f6a017b8b364f4966f93ecda4e82a1b27184fd90ba24b131",
+                    "size": 2091761,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.10_HD_U_E3.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U E3",
+    "order": 10,
+    "releaseTime": "2017-06-29T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.10_HD_U_E3"
+}

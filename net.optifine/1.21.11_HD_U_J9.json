@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "63a60c48b3370920e96d4c32570d7154d17b3a86654c4f1d1df418be668d3903",
+                    "size": 8045116,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.21.11_HD_U_J9.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U J9",
+    "order": 10,
+    "releaseTime": "2026-02-05T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.21.11_HD_U_J9"
+}

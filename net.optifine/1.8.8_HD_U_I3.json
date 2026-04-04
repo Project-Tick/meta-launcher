@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "ddc9c2ae7e771416abfbbed288e09076657e580ab9125b81627e0efaaf07af64",
+                    "size": 1884138,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.8.8_HD_U_I3.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U I3",
+    "order": 10,
+    "releaseTime": "2017-10-26T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.8.8_HD_U_I3"
+}

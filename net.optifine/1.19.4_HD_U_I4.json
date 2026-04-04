@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "2c010bcae341cf1003c194a4b566a0cb0c8dff2443d2f9fbd9e7a2d9abc8af6a",
+                    "size": 7049103,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.19.4_HD_U_I4.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U I4",
+    "order": 10,
+    "releaseTime": "2023-06-23T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.19.4_HD_U_I4"
+}

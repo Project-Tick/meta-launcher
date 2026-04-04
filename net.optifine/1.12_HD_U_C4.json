@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "2dd7fedffda9b41fbebc1d9f66d140b1e4cfe2c6fb845615118600302e2badfc",
+                    "size": 2106517,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.12_HD_U_C4.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U C4",
+    "order": 10,
+    "releaseTime": "2017-07-03T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.12_HD_U_C4"
+}

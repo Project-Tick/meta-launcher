@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "da40bd1f29fdd553e68fcf6a4e0450f088fdc8488c30ed3b0ffd4408152a8ed0",
+                    "size": 7780811,
+                    "url": "https://optifine.net/downloadx?f=preview_OptiFine_1.21.10_HD_U_J7_pre10.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U J7 pre10",
+    "order": 10,
+    "releaseTime": "2025-12-02T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "preview_OptiFine_1.21.10_HD_U_J7_pre10"
+}

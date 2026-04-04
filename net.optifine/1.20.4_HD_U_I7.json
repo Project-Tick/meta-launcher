@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "2470895443a4678d66bc39158fca6775343b6d1aa6e332bd8229892d1a2bfffd",
+                    "size": 7232045,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.20.4_HD_U_I7.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U I7",
+    "order": 10,
+    "releaseTime": "2024-03-17T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.20.4_HD_U_I7"
+}

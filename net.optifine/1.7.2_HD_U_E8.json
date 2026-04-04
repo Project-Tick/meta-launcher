@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "f137a5d36658dcb319d2c8336738f732ff8affcc197e595bf172c418014e91d6",
+                    "size": 1631467,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.7.2_HD_U_E8.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U E8",
+    "order": 10,
+    "releaseTime": "2017-05-04T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.7.2_HD_U_E8"
+}

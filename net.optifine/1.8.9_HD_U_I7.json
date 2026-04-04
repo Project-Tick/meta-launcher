@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "778f1aa163c4d1e3f1a5a45436da7801b54ee30f3bc2345c1f0ac5c06b6b4d62",
+                    "size": 2016181,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.8.9_HD_U_I7.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U I7",
+    "order": 10,
+    "releaseTime": "2018-04-04T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.8.9_HD_U_I7"
+}

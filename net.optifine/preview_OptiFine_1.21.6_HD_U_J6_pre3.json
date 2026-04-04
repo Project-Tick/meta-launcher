@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "f73e5b90a89e523873b5b876cbd7601f08eface74879e8dd528bd25328ef5c7a",
+                    "size": 7518992,
+                    "url": "https://optifine.net/downloadx?f=preview_OptiFine_1.21.6_HD_U_J6_pre3.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U J6 pre3",
+    "order": 10,
+    "releaseTime": "2025-06-30T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "preview_OptiFine_1.21.6_HD_U_J6_pre3"
+}

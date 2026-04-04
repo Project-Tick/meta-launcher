@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "1ce3a1ab348aac5cfe70fbc60496146c594faa21bb1bc5fc73dfb16432108940",
+                    "size": 1194978,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.7.10_HD_U_D4.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U D4",
+    "order": 10,
+    "releaseTime": "2016-04-28T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.7.10_HD_U_D4"
+}

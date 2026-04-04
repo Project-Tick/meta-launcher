@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "dc3442eca2fd116ea718909c078091bbe7f1a043e14d30449ed620090b1a80c4",
+                    "size": 2598165,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.12.2_HD_U_F4.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U F4",
+    "order": 10,
+    "releaseTime": "2019-10-23T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.12.2_HD_U_F4"
+}

@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "c80cad3ca5c09413b3fb33a04981fb7d9cd2909270e77d3cf351ccd02549a175",
+                    "size": 2617760,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.14.3_HD_U_F1.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U F1",
+    "order": 10,
+    "releaseTime": "2019-06-28T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.14.3_HD_U_F1"
+}

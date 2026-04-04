@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "31ca7b610077b7c9ffe585082933a5f5e8e35cee9bb2594dd689a9d7905580f8",
+                    "size": 2104043,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.12_HD_U_C3.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U C3",
+    "order": 10,
+    "releaseTime": "2017-06-26T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.12_HD_U_C3"
+}

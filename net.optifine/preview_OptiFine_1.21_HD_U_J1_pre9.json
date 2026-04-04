@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "b26b22478592ca85c3ea829784c3b7bf0d98d882d18a937af969dcc14372d37f",
+                    "size": 7355487,
+                    "url": "https://optifine.net/downloadx?f=preview_OptiFine_1.21_HD_U_J1_pre9.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U J1 pre9",
+    "order": 10,
+    "releaseTime": "2024-09-04T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "preview_OptiFine_1.21_HD_U_J1_pre9"
+}

@@ -1,0 +1,20 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "3dacc83efcb024ad80388c294873e22e4ff698ed68a3f51d9cff83ed419e6e1f",
+                    "size": 1946516,
+                    "url": "https://optifine.net/downloadx?f=OptiFine_1.11_HD_U_B2.jar&x=062a44a1bb8959289702c17b4d5b5222"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U B2",
+    "order": 10,
+    "releaseTime": "2016-12-01T00:00:00+00:00",
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.11_HD_U_B2"
+}

@@ -6,1540 +6,1540 @@
         {
             "recommended": true,
             "releaseTime": "2026-02-05T00:00:00+00:00",
-            "sha256": "a8cbb194e33d040d8d1c49c10b2e12f9d5b3429e65c3d3f44059ac7d11383a59",
+            "sha256": "3d55f8bd3c11bc28d22e898a268734179018907ccd36e6e0445d4dfec3bcbc7e",
             "type": "release",
             "version": "1.21.11_HD_U_J9"
         },
         {
             "recommended": true,
             "releaseTime": "2026-01-21T00:00:00+00:00",
-            "sha256": "17e3c4087f387a600fb92b177477dbb9f599358d05db54f90dc87e8d8bdc10ee",
+            "sha256": "9b36dea2c9bd961b4c818b7e260099f3c08cf2086e6390c524bc5f0b27ee3111",
             "type": "release",
             "version": "1.21.11_HD_U_J8"
         },
         {
             "recommended": true,
             "releaseTime": "2025-12-03T00:00:00+00:00",
-            "sha256": "56bc3befb989acccb20e9927698b41d9621de097f59368afdd040d98af4dea94",
+            "sha256": "0716af70180500134971b3757c0c0b3ae7381abe579c712072757fda1ad9785d",
             "type": "release",
             "version": "preview_OptiFine_1.21.10_HD_U_J7_pre11"
         },
         {
             "recommended": false,
             "releaseTime": "2025-12-02T00:00:00+00:00",
-            "sha256": "11ccf0f4a1f1d251335957b3c56d2dae362667bc4928a7e6bdfd236f9cd23891",
+            "sha256": "e3b5adec455a95a72c2a1852dfda38ae13554bf6d7258c2db87268742c875f62",
             "type": "release",
             "version": "preview_OptiFine_1.21.10_HD_U_J7_pre10"
         },
         {
             "recommended": false,
             "releaseTime": "2025-12-01T00:00:00+00:00",
-            "sha256": "6348aaaf9861090444ca67251b78a75c92c32443064aa31cb8d70b2fa1e5bf12",
+            "sha256": "a84e4072d084d815f3938511534d3b6681084c373bd6f1a94d2ac01da273633b",
             "type": "release",
             "version": "preview_OptiFine_1.21.10_HD_U_J7_pre9"
         },
         {
             "recommended": false,
             "releaseTime": "2025-10-01T00:00:00+00:00",
-            "sha256": "04b81da803146d8d8f228a7a2fb2fb9bd75ca8b308146346f7734c51280f2bbe",
+            "sha256": "0cbf3f83ea01a5a2d2e890db5c814c5dbf8bd8faf9466818b3fe5dcbe292c611",
             "type": "release",
             "version": "preview_OptiFine_1.21.9_HD_U_J7_pre1"
         },
         {
             "recommended": false,
             "releaseTime": "2025-10-01T00:00:00+00:00",
-            "sha256": "ef8e1e173d04524142b218173f4f3be1b3188b23c190ba518fbe3f9aba607d5d",
+            "sha256": "bf11c9c0b146dd556447c1d5ce7381fe4d00c45170c97f04aaeb5fc82c3b5766",
             "type": "release",
             "version": "preview_OptiFine_1.21.9_HD_U_J7_pre2"
         },
         {
             "recommended": false,
             "releaseTime": "2025-08-29T00:00:00+00:00",
-            "sha256": "0a518f52001336787b9808fa6c00b7c78295e12bef43699a1f61c86251fb9942",
+            "sha256": "a7ffd5411b987ef7066130a8413eac0c6e0d97aae90465dd7950bb955e2ef0e1",
             "type": "release",
             "version": "preview_OptiFine_1.21.8_HD_U_J6_pre16"
         },
         {
             "recommended": false,
             "releaseTime": "2025-08-28T00:00:00+00:00",
-            "sha256": "9058f798cc0d9e0e04c041c1d0f65f014dc328499eb85692370f6bce1d37928f",
+            "sha256": "4b29d13bc9d748b768e2e3ed1a2f5fdda91ed9d5e1ba7b4f3a844da1a24ec7e1",
             "type": "release",
             "version": "preview_OptiFine_1.21.8_HD_U_J6_pre15"
         },
         {
             "recommended": false,
             "releaseTime": "2025-08-04T00:00:00+00:00",
-            "sha256": "e107bd26c9091a56c3f4589717298dcc5f90ec6df3c047fbd25cae7fc8aaa40f",
+            "sha256": "c518456df52b9d5eb057b15fe0e232591834efbb85ff664288e4a97f59ff8c80",
             "type": "release",
             "version": "preview_OptiFine_1.21.8_HD_U_J6_pre14"
         },
         {
             "recommended": false,
             "releaseTime": "2025-08-03T00:00:00+00:00",
-            "sha256": "aa93ae2e00f4b5d147627535c8c48ab1fbcf5429aa262a738e1a62ecdd31b954",
+            "sha256": "90b753428120ce8d59fd97df49a2747266dee5d69829a42c3508cab6ea26570d",
             "type": "release",
             "version": "preview_OptiFine_1.21.8_HD_U_J6_pre13"
         },
         {
             "recommended": false,
             "releaseTime": "2025-07-21T00:00:00+00:00",
-            "sha256": "1f595a4abde7f7e425e39fa5cd2b2569c54cd56d3d4e7c094c4feae5464fd740",
+            "sha256": "02e9fe91d656c7aac37f60ffbddc3d8502457fee31bce4a51b676fc9046dd41b",
             "type": "release",
             "version": "preview_OptiFine_1.21.7_HD_U_J6_pre7"
         },
         {
             "recommended": false,
             "releaseTime": "2025-07-10T00:00:00+00:00",
-            "sha256": "5ed9c032984b716afa9ba796fcdcb6fd395f0d1a66712f397863032765873977",
+            "sha256": "68e86372a5932642513525e62aa346f22c67e877ccaa63d5c5089457cbd97722",
             "type": "release",
             "version": "preview_OptiFine_1.21.7_HD_U_J6_pre6"
         },
         {
             "recommended": false,
             "releaseTime": "2025-07-08T00:00:00+00:00",
-            "sha256": "0220c9ba345f6be0773c1752c5c1faebf9ea19af4932dd11c8b4e194d78e889f",
+            "sha256": "069328874d8aadf804657952b5c258e262c7bfe754e5c3697564fc2f7a5e603f",
             "type": "release",
             "version": "preview_OptiFine_1.21.7_HD_U_J6_pre5"
         },
         {
             "recommended": false,
             "releaseTime": "2025-06-30T00:00:00+00:00",
-            "sha256": "551d46e8a29592ad025ceaca312bec04ea018136b3b11cab84525cee46914e3a",
+            "sha256": "5a1e63cf18a0a1d2b9de8d91207ee607ef0d7b214762b271abeb037da8995662",
             "type": "release",
             "version": "preview_OptiFine_1.21.6_HD_U_J6_pre3"
         },
         {
             "recommended": false,
             "releaseTime": "2025-06-29T00:00:00+00:00",
-            "sha256": "e296876e12fea1fb3ce85e9f20da26d459b690c801cfb1cf211a9019ea55acfc",
+            "sha256": "4a14115b22a902b766d6abbd7181a7441fcb1868cd214b3692ceef94afffb01a",
             "type": "release",
             "version": "preview_OptiFine_1.21.6_HD_U_J6_pre2"
         },
         {
             "recommended": false,
             "releaseTime": "2025-06-27T00:00:00+00:00",
-            "sha256": "7455c15908ff0a9853cf18780daa751fb7958a52231b1ce00c4b443ca59f3376",
+            "sha256": "4560094d96a50d2c7729d331b478e84610c317bd399c1d139699b322195695db",
             "type": "release",
             "version": "preview_OptiFine_1.21.6_HD_U_J6_pre1"
         },
         {
             "recommended": false,
             "releaseTime": "2025-02-20T00:00:00+00:00",
-            "sha256": "36c84821683395a53fd2b1e1a7c2277d9cc5303604f2893aead048d860e8abd9",
+            "sha256": "c9d95999815d74584982c0059a3e78ff8ac746db1b2bf9d3f9753d98314aac1c",
             "type": "release",
             "version": "preview_OptiFine_1.21.4_HD_U_J4_pre2"
         },
         {
             "recommended": false,
             "releaseTime": "2025-02-18T00:00:00+00:00",
-            "sha256": "07d7622909835ba9795b499952e63d0dd2be558a9cbd0f7d874d771cd07a7613",
+            "sha256": "75c22fb1225866c8b67faec3e4027bcd32a4d197662ed8557cf22e8562059d28",
             "type": "release",
             "version": "preview_OptiFine_1.21.4_HD_U_J4_pre1"
         },
         {
             "recommended": false,
             "releaseTime": "2025-02-09T00:00:00+00:00",
-            "sha256": "e0541d7a99b513905ff02493dd5e881590f58d67f87891ccfa2d169e1f49214b",
+            "sha256": "864020e4a56a625b252f05d8ddd5a4c64bd0e535da6900039227b0a46777d52b",
             "type": "release",
             "version": "1.21.4_HD_U_J3"
         },
         {
             "recommended": false,
             "releaseTime": "2024-12-03T00:00:00+00:00",
-            "sha256": "6386907e52c8b89b1196cd4b7491b1b01e0257a5f13e76b2ea43f9249e78ecd9",
+            "sha256": "e6aaaca099f4effc45d028c49d69c511cb481e9925e1e51c7e84e443342e6b17",
             "type": "release",
             "version": "1.21.3_HD_U_J2"
         },
         {
             "recommended": false,
             "releaseTime": "2024-09-27T00:00:00+00:00",
-            "sha256": "5ba50d18178e323c9a9a89796def5cdf5aae8ff402859f4a249389487309505f",
+            "sha256": "f047d225e85b89fa5e8284958a1f3ea952ba22bdf10f23545bdedf93f49f23b0",
             "type": "release",
             "version": "preview_OptiFine_1.20.6_HD_U_J1_pre18"
         },
         {
             "recommended": false,
             "releaseTime": "2024-09-25T00:00:00+00:00",
-            "sha256": "9a2c2287c25c9424706f202be854261636fb72faa56f79955ee175b1772dbc70",
+            "sha256": "0bef43d60bb3babd590903fd155eee4a12bf2d2f7c2769f748eb142b0e572bae",
             "type": "release",
             "version": "preview_OptiFine_1.20.6_HD_U_J1_pre17"
         },
         {
             "recommended": false,
             "releaseTime": "2024-09-24T00:00:00+00:00",
-            "sha256": "aceb54f75307dbc8794569ca609ea40dac36c1b05d2084031164ea0dc1a49b46",
+            "sha256": "20c72276dfe20ea5981a4be6d04d5dc1b25e45e4073131bc6560a2d1700ca802",
             "type": "release",
             "version": "1.21.1_HD_U_J1"
         },
         {
             "recommended": false,
             "releaseTime": "2024-09-04T00:00:00+00:00",
-            "sha256": "70f1fabff7d81de2332efc03de43422dd011416bb403005fed2f9ba4d8350207",
+            "sha256": "7c89a5356b17b7098c1625ee4c1a0c6bcc7fb3d177bd3fdde0bc3166e3b54cf6",
             "type": "release",
             "version": "preview_OptiFine_1.21_HD_U_J1_pre9"
         },
         {
             "recommended": false,
             "releaseTime": "2024-09-03T00:00:00+00:00",
-            "sha256": "f984ac4154684c3b1b802abc0d7a49457e15ae17e587cc823fb4f2e4fed40a26",
+            "sha256": "221798fddba0460b7e51d100713c131b08c154dd4acc5578951a2e4f7c01e84b",
             "type": "release",
             "version": "preview_OptiFine_1.21_HD_U_J1_pre8"
         },
         {
             "recommended": false,
             "releaseTime": "2024-09-02T00:00:00+00:00",
-            "sha256": "cf73434de6c393a2106bfa0222ddac1bf21b1bf2daf262cee683550846791c34",
+            "sha256": "5395faa441462cbdc9c98f1bcd1fe3346e2c7d5c0a198974d6acab1405a6a6aa",
             "type": "release",
             "version": "preview_OptiFine_1.21_HD_U_J1_pre6"
         },
         {
             "recommended": false,
             "releaseTime": "2024-06-06T00:00:00+00:00",
-            "sha256": "6cba6a9785eebfbe580eb2f0c1739681e9d7139d3c961ae248b1d82af0e5b0dc",
+            "sha256": "ecdae1bc11a67a9941c0252d8eeef6318c4d527418bedfc8eb89cf6add643e37",
             "type": "release",
             "version": "preview_OptiFine_1.20.6_HD_U_I9_pre1"
         },
         {
             "recommended": false,
             "releaseTime": "2024-03-23T00:00:00+00:00",
-            "sha256": "f948d05bdfe29b673782ee58d325ae7c4525517f8d605cce540ffe3fed635573",
+            "sha256": "295649479069d4dbd325b438bc87b733662f5fea8adbcb37035f056789e8bc43",
             "type": "release",
             "version": "preview_OptiFine_1.20.4_HD_U_I8_pre4"
         },
         {
             "recommended": false,
             "releaseTime": "2024-03-21T00:00:00+00:00",
-            "sha256": "d0337151bd862384aa77bfc9af216bc545539d6131de9d923ed6d7c4b5cbe73f",
+            "sha256": "a5d0d560a483ae6f80981fbf99a6e9cc1221128d5420d102d995fdf583c4b7f4",
             "type": "release",
             "version": "preview_OptiFine_1.20.4_HD_U_I8_pre3"
         },
         {
             "recommended": false,
             "releaseTime": "2024-03-20T00:00:00+00:00",
-            "sha256": "a68a9c2eb3b463145d669afd59d9ade8b3f573012452a7fa42be1f5e535c07ad",
+            "sha256": "f437b9f88392337c8d6c3908ff4734b5e2ee941d28019357f0395b70db4667cd",
             "type": "release",
             "version": "preview_OptiFine_1.20.4_HD_U_I8_pre2"
         },
         {
             "recommended": false,
             "releaseTime": "2024-03-17T00:00:00+00:00",
-            "sha256": "d728fbab412938133262e0ee9a0b872ee2bb264835ff13394d1c6b81d7d94286",
+            "sha256": "cdc0cb58dec35a3d102f94bd4fab7336b716fe5ce630237ea038eb5766425d76",
             "type": "release",
             "version": "1.20.4_HD_U_I7"
         },
         {
             "recommended": false,
             "releaseTime": "2023-12-21T00:00:00+00:00",
-            "sha256": "d7c96a3d92650519c613eaac04b93579c3cd77563cf21a52c132ee288bfafaa0",
+            "sha256": "cecc5f28ca38b9e5c2757dc3d79cbb40db7e284ca99d32d79de0d1d38f11ae18",
             "type": "release",
             "version": "1.20.1_HD_U_I6"
         },
         {
             "recommended": false,
             "releaseTime": "2023-12-21T00:00:00+00:00",
-            "sha256": "97652e52c5fa6a7b797edbe8984d64483c15f86fc350f4c2febaeb567f477fe2",
+            "sha256": "b1c5bdb97f948428646dfbc094de0097b212eed265d91b865c04bf0282f0dd53",
             "type": "release",
             "version": "preview_OptiFine_1.20.2_HD_U_I7_pre1"
         },
         {
             "recommended": false,
             "releaseTime": "2023-07-07T00:00:00+00:00",
-            "sha256": "863ff0ba2b0d7167654cae5fb907d3df6142c48e5be1d250153ca1c77933d17e",
+            "sha256": "0a725ee14ddc12b257ea10db92fef0b89b6c0ef4913c6a97f7afd79ba4c7efa5",
             "type": "release",
             "version": "1.20.1_HD_U_I5"
         },
         {
             "recommended": false,
             "releaseTime": "2023-06-26T00:00:00+00:00",
-            "sha256": "2baf0304e1dd0213a0978dbc55e441810f8f3c66c7cb856bff9317d84ca9df4a",
+            "sha256": "9cd23261c983ffbe06cbb8920b7d22e9e3066aacf823b24f73cb96f18b9a7b2f",
             "type": "release",
             "version": "1.18.2_HD_U_H9"
         },
         {
             "recommended": false,
             "releaseTime": "2023-06-23T00:00:00+00:00",
-            "sha256": "0a679b52709e2147cb7d13e1ece608dab08e07bd4dd1b76b7373b06acc7deda0",
+            "sha256": "fa9573a26c48617b14887acc768cbe18cfff847245b342559020d4ff0d360191",
             "type": "release",
             "version": "1.19.2_HD_U_I2"
         },
         {
             "recommended": false,
             "releaseTime": "2023-06-23T00:00:00+00:00",
-            "sha256": "c52255fc210470ea6acf48e65b2ea3803b1f8cc265fd96790a9b55779521635a",
+            "sha256": "79f0e989631fe57ad6e92bec15862cea97a623baadfef137cde5134c37686b48",
             "type": "release",
             "version": "1.19.4_HD_U_I4"
         },
         {
             "recommended": false,
             "releaseTime": "2023-06-22T00:00:00+00:00",
-            "sha256": "92c21a24b2d041b97c74232b6528eac27da46998caf8e061c24eca9c7b338762",
+            "sha256": "561d3f97a5d40bb5d5bc4174e07bab40acd1b2ec3f1a4f279014dbd510fd7ef8",
             "type": "release",
             "version": "preview_OptiFine_1.20_HD_U_I5_pre5"
         },
         {
             "recommended": false,
             "releaseTime": "2023-06-21T00:00:00+00:00",
-            "sha256": "563e6e971424a7463c1515e8e6615cad2021fbb1cfb424c84b9874be2eea29c3",
+            "sha256": "5917d3c5b5f259bc5338c7bf41aa5b8a950f2e376605aee001077bc06468d9b8",
             "type": "release",
             "version": "preview_OptiFine_1.20_HD_U_I5_pre4"
         },
         {
             "recommended": false,
             "releaseTime": "2023-03-24T00:00:00+00:00",
-            "sha256": "83e643cd312aa6a3f18b67f7c79d84b7c0092fd70d7f567bcd904fd6880e68c9",
+            "sha256": "8952595b6cfc39863f63523d29e2b994637188fd15d04283b2be3a4c88fb2b6e",
             "type": "release",
             "version": "1.19.3_HD_U_I3"
         },
         {
             "recommended": false,
             "releaseTime": "2023-03-24T00:00:00+00:00",
-            "sha256": "f1bd1fdbd9999af3a15d78b4ccb8ee5a39dff8dda12aa04c290a6b067592d66e",
+            "sha256": "592787d556da4c95f52d6e4be2cc101c87353da91d56332a46ca8ccfdbc1a6c5",
             "type": "release",
             "version": "1.19.4_HD_U_I3"
         },
         {
             "recommended": false,
             "releaseTime": "2022-12-13T00:00:00+00:00",
-            "sha256": "283c24da31bdd79fc067fab12610b437aed0bdd3b4538799303d69327bf65236",
+            "sha256": "7dc2164dc639a070d517983b0f4a759f948828f689bfa31bd7b12d1926501d06",
             "type": "release",
             "version": "1.19.2_HD_U_I1"
         },
         {
             "recommended": false,
             "releaseTime": "2022-08-20T00:00:00+00:00",
-            "sha256": "07bba408331a110b973e6194ddadc41c8d8db1370b8f28c3988c2d65883ff6b3",
+            "sha256": "fd6c82aeb335004605d9695ada2281c24e87d120537851d0509d0bf2ea6e3bc2",
             "type": "release",
             "version": "1.19.1_HD_U_H9"
         },
         {
             "recommended": false,
             "releaseTime": "2022-08-20T00:00:00+00:00",
-            "sha256": "94e812b536c650dabd91f06848688391eeb88b8941528510a9fa47ab40155cbb",
+            "sha256": "52b875534cf5075ddb03cf3d92f39611fcc632b90a0873f0f3d654fd61efcfbc",
             "type": "release",
             "version": "1.19.2_HD_U_H9"
         },
         {
             "recommended": false,
             "releaseTime": "2022-07-31T00:00:00+00:00",
-            "sha256": "292bf49735366109d2396d776ffeb12416290acf1a3020c6606ae6ffae4a9558",
+            "sha256": "dd709612171b2b3a8102ee302d490532bbd013d7f76a8caac06d2f51c85a6527",
             "type": "release",
             "version": "1.19_HD_U_H9"
         },
         {
             "recommended": false,
             "releaseTime": "2022-07-09T00:00:00+00:00",
-            "sha256": "10e8a874e1782533eaf4b7ca79014e9a1ff1e8a20a7149011714aa9a42bdf558",
+            "sha256": "dd5e92fbad6fb4682a7ef1b87eef6a6827464edfbbbff155cd2806a55f5e65d4",
             "type": "release",
             "version": "1.19_HD_U_H8"
         },
         {
             "recommended": false,
             "releaseTime": "2022-04-10T00:00:00+00:00",
-            "sha256": "db2da5a716b014dee50b1c0212b39dfa3cf8b499ec45a2f5d4113832681f0653",
+            "sha256": "0050e84624a1dc79046836bebad04a3a71c3caf22f6f02c57b8c1e6f3c6c3299",
             "type": "release",
             "version": "1.18.2_HD_U_H7"
         },
         {
             "recommended": false,
             "releaseTime": "2022-03-24T00:00:00+00:00",
-            "sha256": "c472e8175c24a06f6b95c0cc314cd0d0d6848e874382243f341a324a2fc3f8f8",
+            "sha256": "e56fc864a0a03b674e95421f9782b5f4d983d387a71e24da4305ef155546b4b2",
             "type": "release",
             "version": "1.18.1_HD_U_H6"
         },
         {
             "recommended": false,
             "releaseTime": "2022-03-13T00:00:00+00:00",
-            "sha256": "0154916e3dee5fc70a6ba07b0f63c1186cfa64c0643fc9a696b1f3eaa51e3e72",
+            "sha256": "37ff1018ede70538bd47324cb5fdf193d2ae31f587527f0dadb61e4891dcf227",
             "type": "release",
             "version": "1.18.2_HD_U_H6"
         },
         {
             "recommended": false,
             "releaseTime": "2022-03-03T00:00:00+00:00",
-            "sha256": "dab9750b968eadd7fa1b3e2ac0b18e80a1ba85aeb69f5d6b96d3c414084db00a",
+            "sha256": "9d77ea61d061fd1c2da1c2ec4cdee131354194c683eea9e7edb703389e5a2cdc",
             "type": "release",
             "version": "1.18.1_HD_U_H5"
         },
         {
             "recommended": false,
             "releaseTime": "2021-12-12T00:00:00+00:00",
-            "sha256": "7edf9b0f10e2e80583b1d6717e107358725a78ebf23971c82dcda30a149c5c6f",
+            "sha256": "714c0ac6c0625bdced7b24635feb21adcda4a0ca9f602e7e92c912db330e3ac1",
             "type": "release",
             "version": "1.18.1_HD_U_H4"
         },
         {
             "recommended": false,
             "releaseTime": "2021-12-06T00:00:00+00:00",
-            "sha256": "b78eb5efb55a2ceaa78fc756f32b0b44f2166e5a97f926d4ca9930a1b46550c8",
+            "sha256": "d0b6017d7c5543fb54bf31c36ca0ece25c98787b86a4358f7e73fe55d7acc5a1",
             "type": "release",
             "version": "1.18_HD_U_H3"
         },
         {
             "recommended": false,
             "releaseTime": "2021-11-04T00:00:00+00:00",
-            "sha256": "80e7332510031f4480c4707a8e33499ba6606979a91fd4503c8a2d9b2a15f3ae",
+            "sha256": "b1053765cd307d73791837628e3a9a9c43fceed24614d345dcc36ac598703092",
             "type": "release",
             "version": "preview_OptiFine_1.17.1_HD_U_H2_pre1"
         },
         {
             "recommended": false,
             "releaseTime": "2021-11-03T00:00:00+00:00",
-            "sha256": "7bfe2c437815b0a4e43499fa7fb23c55dee7feb2373cbd89d270de20c2d72fdb",
+            "sha256": "0eb5bbe137d0487a68e705c19d3c9f82c72ea5fbe501643e6cfb1f85b8a1481a",
             "type": "release",
             "version": "1.17.1_HD_U_H1"
         },
         {
             "recommended": false,
             "releaseTime": "2021-11-01T00:00:00+00:00",
-            "sha256": "fa1c2245d1fbf73b342272740e54277e634faadc05386a8e371262bc2fdb40c8",
+            "sha256": "c14221e4db0c80e14247e5e80484bab258a9b6202400ac44941901dd6139857d",
             "type": "release",
             "version": "preview_OptiFine_1.8.9_HD_U_M6_pre2"
         },
         {
             "recommended": false,
             "releaseTime": "2021-08-30T00:00:00+00:00",
-            "sha256": "4f33fda25551d345f65fe2bce2d7e727254b50566d8be3824aaad7ae1847b804",
+            "sha256": "5f719f73cc2e60b0acc8f357585ef6625b27aa8176e4dc54dff8e03eaf60d933",
             "type": "release",
             "version": "1.17.1_HD_U_G9"
         },
         {
             "recommended": false,
             "releaseTime": "2021-07-09T00:00:00+00:00",
-            "sha256": "da783273afe9848d8ccb7e3387635b4262006b807a843d66f4a4b6677b886147",
+            "sha256": "c45e88e33fc5713cd457683a26b77f91ef160786004190e262dde43ff2bcc14b",
             "type": "release",
             "version": "preview_OptiFine_1.17_HD_U_G9_pre26"
         },
         {
             "recommended": false,
             "releaseTime": "2021-07-06T00:00:00+00:00",
-            "sha256": "b4de36706fa97fa6bbca41c1081bc2b80912b027ebd9e2d9916ba966f89e8bff",
+            "sha256": "71420805827da72e24d5726be6dbcbfcaae3c27a29f98e5cd3c0ab3afdab3eab",
             "type": "release",
             "version": "preview_OptiFine_1.17_HD_U_G9_pre25"
         },
         {
             "recommended": false,
             "releaseTime": "2021-05-15T00:00:00+00:00",
-            "sha256": "2deb9e5ee81b5e8a9d3ffb19111b95627fb3d86c71bd8c03e52bf9245d8322f6",
+            "sha256": "a03585f692c76a32593a6a3e02ac2b8b4991b7890f1288ffb266a6825ecb763f",
             "type": "release",
             "version": "1.16.5_HD_U_G8"
         },
         {
             "recommended": false,
             "releaseTime": "2021-03-26T00:00:00+00:00",
-            "sha256": "5cbda7d428bd66884718e0efdbce5bfd02d6036a76c59ae5e5f622b217624ed5",
+            "sha256": "dfafa84454bf3b01c850baf59c883034ed272bc59e75e36648a96b53ef108030",
             "type": "release",
             "version": "preview_OptiFine_1.8.9_HD_U_M6_pre1"
         },
         {
             "recommended": false,
             "releaseTime": "2021-03-23T00:00:00+00:00",
-            "sha256": "17ca2693888bad9ff58099a365753f33240019a6fedfaac85e62ea25ecbf34ef",
+            "sha256": "94c044abcf9153cee8780b3173c9c46ac4e555687b2b8e2c14b3cbcc6eb84415",
             "type": "release",
             "version": "preview_OptiFine_1.12.2_HD_U_G6_pre1"
         },
         {
             "recommended": false,
             "releaseTime": "2021-03-04T00:00:00+00:00",
-            "sha256": "e6de11996e54e30bc48cfb2392e78bd5670cae9c88017add30ceff3386b14e39",
+            "sha256": "f933cde0ae16f21ce625dfda49e19b569dee43f7dfa7054bb92d3c86461744df",
             "type": "release",
             "version": "1.16.5_HD_U_G7"
         },
         {
             "recommended": false,
             "releaseTime": "2021-02-20T00:00:00+00:00",
-            "sha256": "22c2b52b47cc067323d5898008fab8bc128098a201c9c061b9452d4359ac3d0b",
+            "sha256": "cbf23536cceabeec03153aa145c3699560beeae6348b5cd0580b3737f2e672c7",
             "type": "release",
             "version": "1.16.4_HD_U_G7"
         },
         {
             "recommended": false,
             "releaseTime": "2021-01-24T00:00:00+00:00",
-            "sha256": "6dbb5f9d9d0cf19f8ad56a8711bd2b92109cb3816ba088c8be9f457695a33177",
+            "sha256": "d450a4d08f30aca51ca78ba31c8ef6c4420b0e8014f07ba2d89b677dea61b48e",
             "type": "release",
             "version": "1.10.2_HD_U_I5"
         },
         {
             "recommended": false,
             "releaseTime": "2021-01-24T00:00:00+00:00",
-            "sha256": "97218822229187a955205ee6cca395b31ee83ecf657b45b6cc47e5f87f3789ce",
+            "sha256": "8299dae42bfa4629b87bda686093f1fd3f7135dfee439dce6718c727517f5b94",
             "type": "release",
             "version": "1.10_HD_U_I5"
         },
         {
             "recommended": false,
             "releaseTime": "2021-01-24T00:00:00+00:00",
-            "sha256": "ff509f895ecb8907f78782c013df1f49d75224d8b84590c4c7d0187cd28b967f",
+            "sha256": "68c2da256d23cf39148555b7d9611a6b2f473c591021be2615d5e69eb7b4494f",
             "type": "release",
             "version": "1.11.2_HD_U_G5"
         },
         {
             "recommended": false,
             "releaseTime": "2021-01-24T00:00:00+00:00",
-            "sha256": "4c784571e2b751e7ed9e07ca7c6bf494ca84ca3d09c28666708f77033487084f",
+            "sha256": "9153c0efbdada6a0faa918ec1b2a404e77d9418dbaa82431a1355fb6cb075787",
             "type": "release",
             "version": "1.11_HD_U_G5"
         },
         {
             "recommended": false,
             "releaseTime": "2021-01-24T00:00:00+00:00",
-            "sha256": "fabf9f2c76be9c34768fd7701c1e3af0e30218de7803e3c292000e3efc747543",
+            "sha256": "786b7d0fc93b5371bfe8ab3da5d901ff7eaa027b7a523dec8d6162cd71fc3466",
             "type": "release",
             "version": "1.12.1_HD_U_G5"
         },
         {
             "recommended": false,
             "releaseTime": "2021-01-24T00:00:00+00:00",
-            "sha256": "592ca87b538fdc265de5353d369d73eced4740d14cc4cb67ff3a18cfcd7b0228",
+            "sha256": "7b955ae0f9188394e5658502a8e51cd5adfe8af578b88c712a8147e92695bfd1",
             "type": "release",
             "version": "1.12.2_HD_U_G5"
         },
         {
             "recommended": false,
             "releaseTime": "2021-01-24T00:00:00+00:00",
-            "sha256": "086ba2f3330dacca7c570836e756d6598d5880088d92f2118f6a21176755f923",
+            "sha256": "ebc337d461ce21da1b9e72f4e9ba21133b8fac243e316c7d3d27d27c46f3e2da",
             "type": "release",
             "version": "1.12_HD_U_G5"
         },
         {
             "recommended": false,
             "releaseTime": "2021-01-24T00:00:00+00:00",
-            "sha256": "1acbf42ad0c21aade5604d1768634ed8bc11221cd61cfefbe23ad4f8a84c54db",
+            "sha256": "9493b3e8d0ba129c73fc3e99ba00bcd1881fe6334d89c3f6121e3b3ed893fee6",
             "type": "release",
             "version": "1.13.2_HD_U_G5"
         },
         {
             "recommended": false,
             "releaseTime": "2021-01-24T00:00:00+00:00",
-            "sha256": "962456ddfb5f73707f3a098b6e6b793f77c1b173e84aba35564322eca5b870e1",
+            "sha256": "d7b18ee036ec4e671ef56a5450addb3682b1d379bca140f240f1c66ced871de2",
             "type": "release",
             "version": "1.14.2_HD_U_F1"
         },
         {
             "recommended": false,
             "releaseTime": "2021-01-24T00:00:00+00:00",
-            "sha256": "366263b1753e462df77567377304c6797d4e52c1edb48d96f3d797aa94221958",
+            "sha256": "2b2f30efd902e6b914f8dafdf28b630c7dd626d80e96162f6f02f6ed14297966",
             "type": "release",
             "version": "1.14.4_HD_U_G5"
         },
         {
             "recommended": false,
             "releaseTime": "2021-01-24T00:00:00+00:00",
-            "sha256": "711c00a66f3e4df6d8ae9cc5aa16d04fedaa83b2328f022c40b500fb70e24ec5",
+            "sha256": "16173907473bb56afcead50caebf3a8137e7c52375cc690a5902c92f4255d4c3",
             "type": "release",
             "version": "1.15.2_HD_U_G6"
         },
         {
             "recommended": false,
             "releaseTime": "2021-01-24T00:00:00+00:00",
-            "sha256": "26b234b1ab7b412923484ca4cc132b451638fb305e7bab5f7b035e91647d429b",
+            "sha256": "073f9e6db6a88b16e04e79be89215cf49f79d7f30ed4094e8df19a51d3a27549",
             "type": "release",
             "version": "1.8.9_HD_U_M5"
         },
         {
             "recommended": false,
             "releaseTime": "2021-01-24T00:00:00+00:00",
-            "sha256": "bbc72e0a3d966e736f5f42e1a5b8dbe2c14f05790859881e78464918880ad1b1",
+            "sha256": "f0aacccbf86ac37b645d6e1826584fd6d186f04e094ceb2d083827acb8290a59",
             "type": "release",
             "version": "1.9.0_HD_U_I5"
         },
         {
             "recommended": false,
             "releaseTime": "2021-01-24T00:00:00+00:00",
-            "sha256": "4c3ca18d0997c698f7271615f7ab1014fa302c82a61eb7fdcae0832abaf73a3e",
+            "sha256": "4ea99b040645c3ab5b1294173d5e1d0d5179aff4b69a8da0504ab83e53f62b52",
             "type": "release",
             "version": "1.9.4_HD_U_I5"
         },
         {
             "recommended": false,
             "releaseTime": "2021-01-16T00:00:00+00:00",
-            "sha256": "d764be448f0a31156ade797429632fa1730980ef213eead02a32e1a16f66a515",
+            "sha256": "16ea04f78fbe8fdad5ab5a9eabf9f06b1677aad9a5d13e18599e309571e6b3e2",
             "type": "release",
             "version": "1.16.4_HD_U_G6"
         },
         {
             "recommended": false,
             "releaseTime": "2021-01-16T00:00:00+00:00",
-            "sha256": "e10ef1b0399b954ff8dbedc7229d98fc924811a73d200279866a7b58d1d0036d",
+            "sha256": "52e8ad1007fbdab8c2dbef7458b17506f338cb2d9fd782f850e71fbb5e887c85",
             "type": "release",
             "version": "1.16.5_HD_U_G6"
         },
         {
             "recommended": false,
             "releaseTime": "2020-11-06T00:00:00+00:00",
-            "sha256": "0f045b77ff258f5dc1d7fcfb9bdba320b11fded900dcf454ff0ea8e8de27d546",
+            "sha256": "daa7b0417203375e4f2275a2864dd99440803b0d6e8b0ee3bd48e6c7c941f65a",
             "type": "release",
             "version": "1.16.2_HD_U_G5"
         },
         {
             "recommended": false,
             "releaseTime": "2020-11-06T00:00:00+00:00",
-            "sha256": "d4fa964448e11fd764c61ba80dadb7359a490bf9bd513bc2550bfeedb53ad09d",
+            "sha256": "720db5c9b9a362e979d8fa0acd3a929998b42b2f763e45236ee88a19e264336a",
             "type": "release",
             "version": "1.16.3_HD_U_G5"
         },
         {
             "recommended": false,
             "releaseTime": "2020-11-06T00:00:00+00:00",
-            "sha256": "d6637f20e3b72a4abc1140823564b021f86fb7bec27521a7f21c3fd2f07a64b4",
+            "sha256": "08ab12ee9dfe33454f3e8ad1a60f3060229f7a869609f9d999ebb2cd44accbc9",
             "type": "release",
             "version": "1.16.4_HD_U_G5"
         },
         {
             "recommended": false,
             "releaseTime": "2020-11-02T00:00:00+00:00",
-            "sha256": "a1a631152dd37ad5625f3dcd096129dd59a2c3808cb55d425b64cce1f5f95b58",
+            "sha256": "113d140aa616388fc6c19f030cef2af6fdf71151a69871ced29a953114a493f9",
             "type": "release",
             "version": "1.16.3_HD_U_G4"
         },
         {
             "recommended": false,
             "releaseTime": "2020-09-16T00:00:00+00:00",
-            "sha256": "a4691f3d83d062e25a6570d3e65286b36bb508e5699009d0db3c281a73c58075",
+            "sha256": "e0e36849e6a5d44da86a184261614cade9a8a7d291adc97f5281c90a0c9c3395",
             "type": "release",
             "version": "1.16.3_HD_U_G3"
         },
         {
             "recommended": false,
             "releaseTime": "2020-08-29T00:00:00+00:00",
-            "sha256": "616c844fd21cd17ac23f2d4450929cf8a93409a9bb9281eebc8981c50e29cc2f",
+            "sha256": "b139aa491a2b1228b73009d7cc2d956a7149cdfad5c88e7f3387b77d08071888",
             "type": "release",
             "version": "1.16.2_HD_U_G3"
         },
         {
             "recommended": false,
             "releaseTime": "2020-08-01T00:00:00+00:00",
-            "sha256": "0240fc9b1bb908e4521ac789db5dd05126cc07c3bc000a4ce8243e5089c8f13c",
+            "sha256": "15b622d81f651914d1d460d1e13c32d8315315820d47437989e28e7fe8976274",
             "type": "release",
             "version": "1.16.1_HD_U_G2"
         },
         {
             "recommended": false,
             "releaseTime": "2019-12-04T00:00:00+00:00",
-            "sha256": "0be21f148bd6223b97cddce60e513d9fff94763241340b6b0094ea719623eb45",
+            "sha256": "21fac649a3e6ffe6ec24160d99c6214e42351b73350870f11f7012b7127d498b",
             "type": "release",
             "version": "1.10.2_HD_U_H5"
         },
         {
             "recommended": false,
             "releaseTime": "2019-12-04T00:00:00+00:00",
-            "sha256": "f4d93842edd79f78d1b6af65a7d440d2f3b449aa678362828c93eae3afc9b601",
+            "sha256": "2985b77acd1c9b39aa901007dad2947e39d9d19153d5961fb2a11f7f19b7d185",
             "type": "release",
             "version": "1.10_HD_U_H5"
         },
         {
             "recommended": false,
             "releaseTime": "2019-12-04T00:00:00+00:00",
-            "sha256": "06db0c73f202cc75aac810126ccafb7baac8a935e2ada9f6293758a760fbb645",
+            "sha256": "a151b4806d602ef23d3a6da5857aced0ddaabb906f1b21129b18a2b1259dd2e4",
             "type": "release",
             "version": "1.11.2_HD_U_F5"
         },
         {
             "recommended": false,
             "releaseTime": "2019-12-04T00:00:00+00:00",
-            "sha256": "fd51412914b4d567c44eb25f159fb299f25d5813a2018845a639f6e8f2a4499d",
+            "sha256": "3c9a26cac84af3ef4bc5939727ba22b260f0fbdc9e57c770961b7b2427d77690",
             "type": "release",
             "version": "1.11_HD_U_F5"
         },
         {
             "recommended": false,
             "releaseTime": "2019-12-04T00:00:00+00:00",
-            "sha256": "e989f02169c3243480c8ab60ebed1462a92aa32c334503b80834d3b1098c76b6",
+            "sha256": "ad5081fca7f01cac3dccaae63a23f5ec63e47f69c9464f68682c8b02023395e6",
             "type": "release",
             "version": "1.12.1_HD_U_F5"
         },
         {
             "recommended": false,
             "releaseTime": "2019-12-04T00:00:00+00:00",
-            "sha256": "9473c8b6592a25b34df0d48015e6c5118c50d1eabaed062c2e53cbe20c8406ae",
+            "sha256": "0a421e8365c893c5a2c601071298a2db2c25440f185a45a88ab8c47cc23270b7",
             "type": "release",
             "version": "1.12.2_HD_U_F5"
         },
         {
             "recommended": false,
             "releaseTime": "2019-12-04T00:00:00+00:00",
-            "sha256": "ffde38da2cec4649838579705f7ee7c91f93bf23375a3d76427fb9a98f015115",
+            "sha256": "2b59a99ba49e02b53c3d6bb3f8e2dd285a81b0e772891e010511cd67e8757bc6",
             "type": "release",
             "version": "1.12_HD_U_F5"
         },
         {
             "recommended": false,
             "releaseTime": "2019-12-04T00:00:00+00:00",
-            "sha256": "38ceec168b6019f256a3c5330ea6b849d5df17d08314ee819783f60117a06baa",
+            "sha256": "07760f46fac7e6e3cd66ea394aa10103d1825a3f542f7e5e99469819ed071490",
             "type": "release",
             "version": "1.13.2_HD_U_F5"
         },
         {
             "recommended": false,
             "releaseTime": "2019-12-04T00:00:00+00:00",
-            "sha256": "3c13998da739101ba3bfe2f677b17eb87c94d89aaeeae8260d77c98a9020aeba",
+            "sha256": "9357669e33a088c288c053742777948beb57cde69c5dbcb29f3ba99b454362e9",
             "type": "release",
             "version": "1.14.4_HD_U_F5"
         },
         {
             "recommended": false,
             "releaseTime": "2019-12-04T00:00:00+00:00",
-            "sha256": "1336523dcbbaca742361db10e515b32ffa1b7ab9a7da798565ba709144dfd3a8",
+            "sha256": "6fb296bb0b2e498245218ac47b931ee9dd1c0dd0e1dcd59a4001537813e20f2a",
             "type": "release",
             "version": "1.8.9_HD_U_L5"
         },
         {
             "recommended": false,
             "releaseTime": "2019-12-04T00:00:00+00:00",
-            "sha256": "d9fb243890255f17109a181a4beec07d6eb2fd1e2d6e2711bdcca0d3433efc56",
+            "sha256": "ad8ba040bba9b6cd3ad176ff4e574cd19bf6fda4e9268b553afca93c243c9b40",
             "type": "release",
             "version": "1.9.0_HD_U_H5"
         },
         {
             "recommended": false,
             "releaseTime": "2019-12-04T00:00:00+00:00",
-            "sha256": "f206a957019bca2e6ae496430d7266e79244098977ccb56c169fd6a5d92d5624",
+            "sha256": "e27b435578906351225cc2a7d99dcda5666cfedff9b7fed9756126a591fa9d13",
             "type": "release",
             "version": "1.9.4_HD_U_H5"
         },
         {
             "recommended": false,
             "releaseTime": "2019-10-25T00:00:00+00:00",
-            "sha256": "5fc1eb045578a3dd4d0eafff952bbdc6597559a952863ebabae046c8dfb78e09",
+            "sha256": "ddac27c8c326e4a0449c7f90f2d8fe6ac44c48d6d3763b0b2e5491d214c7a06e",
             "type": "release",
             "version": "1.14.4_HD_U_F4"
         },
         {
             "recommended": false,
             "releaseTime": "2019-10-23T00:00:00+00:00",
-            "sha256": "5c9f0106ed57205b45d678a0a9f8406a92f23b7bc522499760ff9e7036df610f",
+            "sha256": "a9c3cea5b5dc54a80cc109130691dd7430146692bbf06593a48576dd0bf5109c",
             "type": "release",
             "version": "1.12.2_HD_U_F4"
         },
         {
             "recommended": false,
             "releaseTime": "2019-08-06T00:00:00+00:00",
-            "sha256": "2b2a7fe1d161e78f0439d1d2b4d31b6e585cbaac8d5aebda9d1bd96e1dae6f55",
+            "sha256": "c43193a4e46c60133ab90cd4d4e004ec09af370584e89ce6522383134acae46d",
             "type": "release",
             "version": "1.14.4_HD_U_F3"
         },
         {
             "recommended": false,
             "releaseTime": "2019-07-25T00:00:00+00:00",
-            "sha256": "f0c6925c91e2e75b2a9a69ab2f13b5490b1bf24450568136055f696513fba295",
+            "sha256": "eabb294786b419c7faeb85c186b6b1194e2fa836c677bc26cbaefe09fde9bbf6",
             "type": "release",
             "version": "1.14.4_HD_U_F2"
         },
         {
             "recommended": false,
             "releaseTime": "2019-07-20T00:00:00+00:00",
-            "sha256": "0bb55496cc9e93c88663691ec34d3cef51a8b0e697d1e047960e829c64f2e230",
+            "sha256": "3333938a4632f0dcded3ba1fc4f7001af15f403239df64135798aaed6023463f",
             "type": "release",
             "version": "1.14.3_HD_U_F2"
         },
         {
             "recommended": false,
             "releaseTime": "2019-06-28T00:00:00+00:00",
-            "sha256": "47d901b5c207f87a9204d7e4591044f4d0ecb56577093bd93f3285deb317e77f",
+            "sha256": "1d3c365b3daf0c716aa24b1998ae54a3658343392c4b2fbe8f4ed7eba639722a",
             "type": "release",
             "version": "1.14.3_HD_U_F1"
         },
         {
             "recommended": false,
             "releaseTime": "2019-03-22T00:00:00+00:00",
-            "sha256": "b2350534042c33c6ef827521da8cf6478a58242bbad2b1dcb46678ffb2f7777b",
+            "sha256": "939752389051c7585e719ff5c549a3bb4c80e60f1368737c0ff2b2467eca276c",
             "type": "release",
             "version": "1.13.2_HD_U_E7"
         },
         {
             "recommended": false,
             "releaseTime": "2019-02-14T00:00:00+00:00",
-            "sha256": "c2ff45c7a1cff7ae954eded0fa33afae2ff813f5727b9e678ab7e9972e633442",
+            "sha256": "3ab3f613bb43a183ca334496136364dd8353a1dbb6b0bb325ea41344bfd62fba",
             "type": "release",
             "version": "1.13.2_HD_U_E6"
         },
         {
             "recommended": false,
             "releaseTime": "2018-12-21T00:00:00+00:00",
-            "sha256": "7c47b45e4afc3608c9a04dae0d8b8738b1d695a14c7ca0f60873586fdb2d13ea",
+            "sha256": "1b3d57a29f3f4a134eac010fb9d9c74570b3c0611c4ab3b8b8335b3dfb041779",
             "type": "release",
             "version": "1.13.2_HD_U_E5"
         },
         {
             "recommended": false,
             "releaseTime": "2018-12-10T00:00:00+00:00",
-            "sha256": "6ec63ede8fb1e608be10da53357057b64ff479bf76218cb58eab5ea04b1d50fe",
+            "sha256": "298323bfba74d503aa08aee934f0dc0da4fd304e801d1fc4e9f24b1f52fcc965",
             "type": "release",
             "version": "1.12.2_HD_U_E3"
         },
         {
             "recommended": false,
             "releaseTime": "2018-10-25T00:00:00+00:00",
-            "sha256": "962c733b8ee9fbde65bb726c2e5853ae52eceebe431a866b5300159b43fa0f17",
+            "sha256": "5f460a89c6254d8b9e12413d81ff242eb99401065f4764fc5398b65eb6c56689",
             "type": "release",
             "version": "1.13.1_HD_U_E4"
         },
         {
             "recommended": false,
             "releaseTime": "2018-10-25T00:00:00+00:00",
-            "sha256": "4335ea7576c18d17ad2f9942218eaed9730339fbde7648ca52755ccbedf26de9",
+            "sha256": "d2181440c87cfa237ea4a8b3e4648ed0e76d7f91c2fc4bc5160d1c57949196a6",
             "type": "release",
             "version": "1.13.2_HD_U_E4"
         },
         {
             "recommended": false,
             "releaseTime": "2018-10-25T00:00:00+00:00",
-            "sha256": "e7c63e2d807cea07ad182ace8979a14c69e268f041b65769acae42da05e020f4",
+            "sha256": "43a1cc877fdd2295a22700564dff8fc3d18473ee754522415e883d5aff92b602",
             "type": "release",
             "version": "1.13_HD_U_E4"
         },
         {
             "recommended": false,
             "releaseTime": "2018-10-18T00:00:00+00:00",
-            "sha256": "84831c50c18dce905f4cb6659cd948a72caa3b9f1e0d8246162076c5da33fb8a",
+            "sha256": "7e10c09431533c7f22f7249b01c4463b981dc51f2a267fb1045a45f12cfc72b7",
             "type": "release",
             "version": "1.13.1_HD_U_E3"
         },
         {
             "recommended": false,
             "releaseTime": "2018-07-28T00:00:00+00:00",
-            "sha256": "703e2cac4bff4e2ab46452ab06c31facfe3c3d48a9b2f0d99520630338bcef32",
+            "sha256": "5f936e514a5f6db087cd32d0ee1fbde86b76d726bf2198ab9a5ce8988425ab80",
             "type": "release",
             "version": "1.12.2_HD_U_E2"
         },
         {
             "recommended": false,
             "releaseTime": "2018-06-28T00:00:00+00:00",
-            "sha256": "ff9542e34e43ec69a741da3f9d7de4695d615b8ce6461598f59dfdae7e525d27",
+            "sha256": "e48ab5e51fa2bf6baa0d55739ef1c4f4f86e4dce1848be5891041703cb4bcd53",
             "type": "release",
             "version": "1.12.2_HD_U_E1"
         },
         {
             "recommended": false,
             "releaseTime": "2018-05-15T00:00:00+00:00",
-            "sha256": "1e5bb39fac3b617bc95c022d4f3cfca7110856dabb7b14dce35170488733caa3",
+            "sha256": "bd1e35c002e2908627d127e0324186d0e91fd2dfc9947362ae0c8f6d9cc6be7a",
             "type": "release",
             "version": "1.12.2_HD_U_D3"
         },
         {
             "recommended": false,
             "releaseTime": "2018-04-30T00:00:00+00:00",
-            "sha256": "1430a9506e20d76d9b4d5b2cd06c4ab514f62da05b359223ef9f1ecdbe0356ec",
+            "sha256": "69e71d20e4f7352136ee23975cdf53de0a42cc1ce11c8969c3d78399ae2eb9b6",
             "type": "release",
             "version": "1.12.2_HD_U_D2"
         },
         {
             "recommended": false,
             "releaseTime": "2018-04-04T00:00:00+00:00",
-            "sha256": "1fe0bd9d54d4c98784c0d4cd8a11523a3d47ef83074840b7ae054f09e0f37d81",
+            "sha256": "015d39fa2ae5cec2bf759df04fb0ceab7da3089d2e1534b91e08a83413eac13a",
             "type": "release",
             "version": "1.7.10_HD_U_E7"
         },
         {
             "recommended": false,
             "releaseTime": "2018-04-04T00:00:00+00:00",
-            "sha256": "69365b3af3b4cd3ba444702b338b097d64eb1614b944bf8cc558565420228b73",
+            "sha256": "3966059bb4694bfcc867889489a35a996dcfe69a18279ed1fd8aa191b42096b6",
             "type": "release",
             "version": "1.7.2_HD_U_F7"
         },
         {
             "recommended": false,
             "releaseTime": "2018-04-04T00:00:00+00:00",
-            "sha256": "0b2f2171fdff39f6ba8670b4c4f0e790cbc2a7955c41fd63a9dd858b1540f348",
+            "sha256": "45fa86bb1b974098819a4017067b4e2d9c5150f979902dd83830d3e3574482d5",
             "type": "release",
             "version": "1.8.0_HD_U_I7"
         },
         {
             "recommended": false,
             "releaseTime": "2018-04-04T00:00:00+00:00",
-            "sha256": "1f103dbc81dd06193986b1635bc9acfcb6937974c41f234cf3db8f80fac2ebbd",
+            "sha256": "6fcede8bf62091c4a17ac806bdc90ec3e735abbce941e5c633ab2e549a4c3eef",
             "type": "release",
             "version": "1.8.8_HD_U_I7"
         },
         {
             "recommended": false,
             "releaseTime": "2018-04-04T00:00:00+00:00",
-            "sha256": "e95ad9d6a2d00ec0054babb73945ea0b66398cd44b6c43d84c55feaaedecafe6",
+            "sha256": "d31050e1703f229a301e167e8b102cb7adac6fe918cbe33f5fa5cded40d0fdf8",
             "type": "release",
             "version": "1.8.9_HD_U_I7"
         },
         {
             "recommended": false,
             "releaseTime": "2018-03-23T00:00:00+00:00",
-            "sha256": "89db17e18a6f74f72e18e610e05688d4a54e8266175d2529bca8f24a13f4cf80",
+            "sha256": "3fe831884bfba6811d9e8cca5560d384c6ceec05f71c55a620b6952ff21e242f",
             "type": "release",
             "version": "1.12.2_HD_U_D1"
         },
         {
             "recommended": false,
             "releaseTime": "2018-02-14T00:00:00+00:00",
-            "sha256": "c09123ee994eaba77a222a2292faa031ee417d4502bb569aaa5f09f2c3a12e7e",
+            "sha256": "369799f97a1e246a4dab2a23e361490dc56804da9c1a2f691f157a56a6957809",
             "type": "release",
             "version": "1.12.2_HD_U_C9"
         },
         {
             "recommended": false,
             "releaseTime": "2018-01-10T00:00:00+00:00",
-            "sha256": "5b8cb152753c1faafe76ec37458a6d9a16bf7032064c68ad330c1a2f4fb2ad22",
+            "sha256": "9adf786b640b4362f71591cb1d4ab7be515c212e18b07d5ca6c6660ed1c362d9",
             "type": "release",
             "version": "1.12.2_HD_U_C8"
         },
         {
             "recommended": false,
             "releaseTime": "2017-12-29T00:00:00+00:00",
-            "sha256": "ce3664cd6839934abc53ac86a03919632cea47393f635809655cdb77886739ce",
+            "sha256": "611571511fda08f337a380e4c0dde23324f409d4fbf585534bf6c1ce23550d8c",
             "type": "release",
             "version": "1.7.10_HD_U_E3"
         },
         {
             "recommended": false,
             "releaseTime": "2017-12-29T00:00:00+00:00",
-            "sha256": "02f915cfba04a2181841f5c5b85c8ac2118540165023bbb562571fe26516cff6",
+            "sha256": "7b50283d6d1e7acf558860bf6592a970d813711207cbab95b3c367695b17412f",
             "type": "release",
             "version": "1.9.0_HD_U_E7"
         },
         {
             "recommended": false,
             "releaseTime": "2017-12-28T00:00:00+00:00",
-            "sha256": "86c9c9061e0bf5e77c5249f2a9a68598ba743a3baec2531c729c7e457814994c",
+            "sha256": "93374277008e4506d176c593feff3cc7f19e0fe21a7d3156be6fb91b7f491da5",
             "type": "release",
             "version": "1.10.2_HD_U_E7"
         },
         {
             "recommended": false,
             "releaseTime": "2017-12-28T00:00:00+00:00",
-            "sha256": "a912d457a1d811e622955e41a2931defbde2ff487e00ab8e5e83ea4e23473319",
+            "sha256": "583997954e00aa18d6030b0a71c1c37355a2e26ff1af1f1055181566f1cb828d",
             "type": "release",
             "version": "1.10_HD_U_E7"
         },
         {
             "recommended": false,
             "releaseTime": "2017-12-28T00:00:00+00:00",
-            "sha256": "a9f1b7a4d54d7c66b018b27df20fd8a6beac70bb74cc5b42477a878b43d9e664",
+            "sha256": "e6bfc401d2a71d217bc806a2b069e0d35aa9d76cd90063798a51b41eae680e3b",
             "type": "release",
             "version": "1.11.2_HD_U_C7"
         },
         {
             "recommended": false,
             "releaseTime": "2017-12-28T00:00:00+00:00",
-            "sha256": "4ee8ae8c56b8840e8248daca32503b89638a845af2cf59e79a22f9dff30b45ba",
+            "sha256": "5508c6d04bc676ff019b3f3b9358853a177e19a8917408d089e444ff4191ef4a",
             "type": "release",
             "version": "1.11_HD_U_C7"
         },
         {
             "recommended": false,
             "releaseTime": "2017-12-28T00:00:00+00:00",
-            "sha256": "48c7254847ad72a7e35c9b222a822a352b574787c527180cd2a18dbff2f8fe6b",
+            "sha256": "cca62e35b23d03c619854b592ba82435646948ff47bd1ea0fc1bb5d3129830fb",
             "type": "release",
             "version": "1.12.1_HD_U_C7"
         },
         {
             "recommended": false,
             "releaseTime": "2017-12-28T00:00:00+00:00",
-            "sha256": "9f699942ee3526d2af3905cc8859936ef526f5671905317cb648a101d00ccdf4",
+            "sha256": "590e4a10b573f9fac32710e419bedb13f3cff018cbf99ad9e32c0435e5f93f57",
             "type": "release",
             "version": "1.12_HD_U_C7"
         },
         {
             "recommended": false,
             "releaseTime": "2017-12-28T00:00:00+00:00",
-            "sha256": "4a3a9a2161c1d049a09e453e73e716fe2a11e8ce3fa00db0c9e94d00c615bfae",
+            "sha256": "84b91c3ab037245853d6d964a74be603ba2a4cf907336f150b99d9f7494028a7",
             "type": "release",
             "version": "1.9.4_HD_U_E7"
         },
         {
             "recommended": false,
             "releaseTime": "2017-12-13T00:00:00+00:00",
-            "sha256": "ca88383a8f4e234a4b73e6f7e0c345c7195a9deff7f0c5f326145f9312dada93",
+            "sha256": "721ad53357cc471532c222b4d0977a36f5e9190bd118c1833c911a491bf25518",
             "type": "release",
             "version": "1.12.2_HD_U_C7"
         },
         {
             "recommended": false,
             "releaseTime": "2017-10-26T00:00:00+00:00",
-            "sha256": "7b4f0bd2520c3090d0c7d980aab18623b722e111af88295acbc7485462106a7e",
+            "sha256": "e08672568dfa26bc40b946ea8c4816fa154decf4d976516700114064323b4af7",
             "type": "release",
             "version": "1.7.2_HD_U_F3"
         },
         {
             "recommended": false,
             "releaseTime": "2017-10-26T00:00:00+00:00",
-            "sha256": "d353742398ded75e21b60c7f8c8e03ab725ab60c7760371b9dc5a1df7e69b507",
+            "sha256": "ee53427722c665b1bfa07a51596dc500c651503f719c6ae484c90bc15da84ac8",
             "type": "release",
             "version": "1.8.0_HD_U_I3"
         },
         {
             "recommended": false,
             "releaseTime": "2017-10-26T00:00:00+00:00",
-            "sha256": "ad4e21bd0de237f3574dc9be9fb3d3349d3212f4a090875cb65ad200f06e2fc7",
+            "sha256": "cf6668571f21a37a93772f622d005f62db2fb0b7d80d8c72011b69626b208c65",
             "type": "release",
             "version": "1.8.8_HD_U_I3"
         },
         {
             "recommended": false,
             "releaseTime": "2017-10-26T00:00:00+00:00",
-            "sha256": "8a4f1653a27c1ffb1eab1cbb51a61e940ba3bde4676260dfbdc5a2e1a1a6fd1f",
+            "sha256": "8b2d7a9049ae31fcdea150f3893975897b1663b93d93d9cce3514c371db90c38",
             "type": "release",
             "version": "1.8.9_HD_U_I3"
         },
         {
             "recommended": false,
             "releaseTime": "2017-10-03T00:00:00+00:00",
-            "sha256": "3162bd174462a23f16ae0e242dbd8fddd576ae5c4f3625e7a1d8bf12fab3e6b2",
+            "sha256": "c687ccbba289ac9956c6a7666fbe33c8cbd1bee08fb84657e94e739fee4fd9c5",
             "type": "release",
             "version": "1.12.1_HD_U_C6"
         },
         {
             "recommended": false,
             "releaseTime": "2017-10-03T00:00:00+00:00",
-            "sha256": "8fb709cf3d56622a6157421f79b2bb12c8073b095dd826660d026f4dd1834335",
+            "sha256": "d411674931f325b59cc73728544668405744b0b417b419c03ec0d1a8380431df",
             "type": "release",
             "version": "1.12.2_HD_U_C6"
         },
         {
             "recommended": false,
             "releaseTime": "2017-09-22T00:00:00+00:00",
-            "sha256": "d70280ab3130342c815fa4f5c2a41544485246051fc7aac919a3bb049de509ec",
+            "sha256": "70c206d59a2b82869634ffda253101455c26dd196b0a2ddb2116800d76fc7a64",
             "type": "release",
             "version": "1.12.2_HD_U_C5"
         },
         {
             "recommended": false,
             "releaseTime": "2017-08-07T00:00:00+00:00",
-            "sha256": "e3008aa9b9618793c41f2f7b557d654ded1c40fa0e76a9436a9b2522e88404ad",
+            "sha256": "4cd6c820435a5ab750cb8b94455dd1ad49ae099141aaa44fdd56be9e285f8b56",
             "type": "release",
             "version": "1.12.1_HD_U_C5"
         },
         {
             "recommended": false,
             "releaseTime": "2017-08-07T00:00:00+00:00",
-            "sha256": "744f03b0d4820367c08534a8d0fd1b8868a22dc481aa879f31a865686b06dc4e",
+            "sha256": "4adf65328fdfa6491df3badb152117aa74929f9e4a3d46c99ce28b37a6003497",
             "type": "release",
             "version": "1.12_HD_U_C5"
         },
         {
             "recommended": false,
             "releaseTime": "2017-07-03T00:00:00+00:00",
-            "sha256": "f0046828383bbe199fb093fd22d4dfc600048d75233c05cb493a1790c7427066",
+            "sha256": "99af3d0b370a59e49823758f3c6fecd232df3f7bd9bb8510f0397c94e148949e",
             "type": "release",
             "version": "1.12_HD_U_C4"
         },
         {
             "recommended": false,
             "releaseTime": "2017-06-29T00:00:00+00:00",
-            "sha256": "8c8a1ce7b9fe5d70e1d2129bfd93ba5ef64b1ff317a5d48639dcb78628775ee1",
+            "sha256": "20ab85bd9551ec3510e87ca0930be052f5525404eb64b9bfdf38d72ba5fe8115",
             "type": "release",
             "version": "1.10.2_HD_U_E3"
         },
         {
             "recommended": false,
             "releaseTime": "2017-06-29T00:00:00+00:00",
-            "sha256": "9b0a43205b87403d276db6574324b23c2653b962beea1576c01522a92855c75e",
+            "sha256": "3a0d9493e4c90e68f16d0ab7ec3860c6ea2e8d1fad40271e2be0bfaa364c4b1c",
             "type": "release",
             "version": "1.10_HD_U_E3"
         },
         {
             "recommended": false,
             "releaseTime": "2017-06-29T00:00:00+00:00",
-            "sha256": "207ede3b72b0ba7410ea83b132eb2b25c334d7af71b9e54e3a7dd1ff84c1cba9",
+            "sha256": "6d148240df5e98cf9026f994bd4c81a0d0b5c526b96aa5319fbe7facf1367265",
             "type": "release",
             "version": "1.9.0_HD_U_E3"
         },
         {
             "recommended": false,
             "releaseTime": "2017-06-29T00:00:00+00:00",
-            "sha256": "f641e6d2992385ee129c7f9f6e5c88d7285c8b2d6958a415190c5fc906b5d17e",
+            "sha256": "d08353ce117647f5869a7471175aa34f2f63ba107d20218d48ebdbe9b0879cca",
             "type": "release",
             "version": "1.9.2_HD_U_E3"
         },
         {
             "recommended": false,
             "releaseTime": "2017-06-29T00:00:00+00:00",
-            "sha256": "014b9950795342aae7d02496816f7eaf3262ae01725aeed5d1c90d1acb30454f",
+            "sha256": "57cef82ac746672d03344c6df3f1cb7536a18327ef49cabf94adf52d15bbaedd",
             "type": "release",
             "version": "1.9.4_HD_U_E3"
         },
         {
             "recommended": false,
             "releaseTime": "2017-06-27T00:00:00+00:00",
-            "sha256": "1209e035f1bcfd2301264ad9732269aa5bf89f32e0fc75664a217cd9b1095582",
+            "sha256": "0d46dd2ade23bb56c13457f700ca8a035e2374b288c3fbdd185fbf0d08d71a90",
             "type": "release",
             "version": "1.11.2_HD_U_C3"
         },
         {
             "recommended": false,
             "releaseTime": "2017-06-27T00:00:00+00:00",
-            "sha256": "663e65d1d54fa6724a6fe7e7bbd6bae0c20ed4ed18bf90029cadb2be4ade1285",
+            "sha256": "0ac0c80b92bbe1fd5c49fbf207b08d3bcf4c0f185ddd8743d3a9ec7a3b8107ee",
             "type": "release",
             "version": "1.11_HD_U_C3"
         },
         {
             "recommended": false,
             "releaseTime": "2017-06-26T00:00:00+00:00",
-            "sha256": "c9ee5e4f786fefa39e71bf487371f6f1c1ae1da7584b9c5f0d0863541c61ecd5",
+            "sha256": "0c32816f11732b0ed49ac8bb12a0c69f9bbe37ffcff2b79753ae07dca523e0a7",
             "type": "release",
             "version": "1.12_HD_U_C3"
         },
         {
             "recommended": false,
             "releaseTime": "2017-06-18T00:00:00+00:00",
-            "sha256": "89a018ac035cc677ea6ab264426d573a8d5380a9bc6170fa207005cc275925c5",
+            "sha256": "80469916cb74795ef07413ed9f06622daa94a7c0a96dbb3ffd616feb184ec7ef",
             "type": "release",
             "version": "1.12_HD_U_C2"
         },
         {
             "recommended": false,
             "releaseTime": "2017-06-13T00:00:00+00:00",
-            "sha256": "595a752f3aa528524e4e893b523b167a6dbd843dea57bd2fdcb7bbd751b05616",
+            "sha256": "a00ffd6cd04d2ed716fadf2ebc7ebe646f09d02782e911b0db7f9f9a3e44be21",
             "type": "release",
             "version": "1.11.2_HD_U_C2"
         },
         {
             "recommended": false,
             "releaseTime": "2017-06-02T00:00:00+00:00",
-            "sha256": "5dca1506f00c8d4fd1818860ddd2eb6af64e1bafa0736da377d98263bd3c31a8",
+            "sha256": "bc6f708e6f86a3c128ce26ddb163cb01035340f6c5c20d6d2c8118d49a428944",
             "type": "release",
             "version": "1.11.2_HD_U_C1"
         },
         {
             "recommended": false,
             "releaseTime": "2017-05-18T00:00:00+00:00",
-            "sha256": "8e2c27b931514fef6595ba085e90c039528065f1350067155b5bf68be250888a",
+            "sha256": "85c64938fc47ef78dd611d27a2d2c5f4c7652bac96a2b07eb512b85149b96785",
             "type": "release",
             "version": "1.11.2_HD_U_B9"
         },
         {
             "recommended": false,
             "releaseTime": "2017-05-04T00:00:00+00:00",
-            "sha256": "c48dfa10bba662869c928bfa46456b4b35ff2232e82b6b33b5a34da3895b020b",
+            "sha256": "dddef0294438ad18f385c2cd4be26a23d95583c35d846fa6f8a6cf7d4b151ebe",
             "type": "release",
             "version": "1.10.2_HD_U_D8"
         },
         {
             "recommended": false,
             "releaseTime": "2017-05-04T00:00:00+00:00",
-            "sha256": "53c2a1bfda8e351499e52a459c7fc43349ac03c9ed351253c5e0124bc427b389",
+            "sha256": "ea560ef3edae78c02e1633055c7f2fcb5ac105b301a828d7ba919b514f47c867",
             "type": "release",
             "version": "1.10_HD_U_D8"
         },
         {
             "recommended": false,
             "releaseTime": "2017-05-04T00:00:00+00:00",
-            "sha256": "7823a2cb2f6ff0be18cfbab8c6a3c3891c966f26324a0b70d737009a7bce4ccf",
+            "sha256": "fe78e5721c1023b458bf22f57d2d10c77660cf222450414cebdfc429cd32ef11",
             "type": "release",
             "version": "1.11.2_HD_U_B8"
         },
         {
             "recommended": false,
             "releaseTime": "2017-05-04T00:00:00+00:00",
-            "sha256": "644529c505b9ac650fd9232eace36a60a0a52f0803feab0070bea5cc4ca311ae",
+            "sha256": "87f1e3c6c59ab446016fd80e99c6e2e02f18db3705ce2a60ffe1ea4ff2c15e2a",
             "type": "release",
             "version": "1.11_HD_U_B8"
         },
         {
             "recommended": false,
             "releaseTime": "2017-05-04T00:00:00+00:00",
-            "sha256": "c4096c23239cefd3416577c32a6649d609dc253fe0d558bf66a4e52b3ceeaad7",
+            "sha256": "8fc5cf6852354233805ddd67a3a6692b77a529fe6be79c734031ba441b5d1ee9",
             "type": "release",
             "version": "1.7.10_HD_U_D8"
         },
         {
             "recommended": false,
             "releaseTime": "2017-05-04T00:00:00+00:00",
-            "sha256": "88a1429813ad400910c8e0bd68436ee02d45326abab1802f1ba9e225d154dd20",
+            "sha256": "95161558687517a38ee9a866f6e9eaf37e9fa2f2f85be4b283a12cdb7a7d781f",
             "type": "release",
             "version": "1.7.2_HD_U_E8"
         },
         {
             "recommended": false,
             "releaseTime": "2017-05-04T00:00:00+00:00",
-            "sha256": "81b18085d267892d4f17322162170cc1ac8780e3357e92f5dc39258e478eb281",
+            "sha256": "92ca6718209bd05f7badf4d5ca61dc3648f1f969a5f06d0b1d2c79a308e66ef6",
             "type": "release",
             "version": "1.8.0_HD_U_H8"
         },
         {
             "recommended": false,
             "releaseTime": "2017-05-04T00:00:00+00:00",
-            "sha256": "a159045ed10d9e690aed9b32a646530503b803f5f81add8a9d9aacec1ee91138",
+            "sha256": "677b7b1e659e7a4bc72bf4952edbd0505cdfd31d45eb9af752d573daca5f0002",
             "type": "release",
             "version": "1.8.8_HD_U_H8"
         },
         {
             "recommended": false,
             "releaseTime": "2017-05-04T00:00:00+00:00",
-            "sha256": "28c8a6e2aab6fdc94712e7d358cc1a9c45b9fda1789e980ce0fadba2cc48bea5",
+            "sha256": "1135ed73c429a6815cb8bc90de867987c0495ac86c377df4963af223683c5857",
             "type": "release",
             "version": "1.8.9_HD_U_H8"
         },
         {
             "recommended": false,
             "releaseTime": "2017-05-04T00:00:00+00:00",
-            "sha256": "776894278e37fe2061f52458f2dd88f87a635b0eda53b3091f3cac53468c45b5",
+            "sha256": "355ab4f4796911cb25040dacf50e775b742b6bf9179e85ac3399e2ad95573502",
             "type": "release",
             "version": "1.9.0_HD_U_D8"
         },
         {
             "recommended": false,
             "releaseTime": "2017-05-04T00:00:00+00:00",
-            "sha256": "b451ffe936b9b3b5ca417a4f5ff409470981dadb305a614fd6142e70cb42d344",
+            "sha256": "201f722c42e2b704a413414d7e224938df463cd1ea1a80c5a510ecd4add5a34a",
             "type": "release",
             "version": "1.9.2_HD_U_D8"
         },
         {
             "recommended": false,
             "releaseTime": "2017-05-04T00:00:00+00:00",
-            "sha256": "101cc021f72099800b32edda6617d0e6e2a8dc2f35e6b478d480334744d8dcab",
+            "sha256": "c7cd6117b9070d4382a442c8fee5ef66f03cfdf77c2957edc0735929b9d00768",
             "type": "release",
             "version": "1.9.4_HD_U_D8"
         },
         {
             "recommended": false,
             "releaseTime": "2017-03-16T00:00:00+00:00",
-            "sha256": "e10c4964c6bbd8aad25ee3e8b92838d33cd3f78981daa5c439a765c234a333fc",
+            "sha256": "6dde0003440a81ce70657fc708e3bea707a08b97e3269534248616f73b7c1a39",
             "type": "release",
             "version": "1.7.2_HD_U_E7"
         },
         {
             "recommended": false,
             "releaseTime": "2017-03-16T00:00:00+00:00",
-            "sha256": "9d25fb5ce1c42d69417491efa4a182b101dee79146a4395d785aab900b148566",
+            "sha256": "9bddcabf8076321efd97f4047ce7a09f7615e425eb2b1efc87cf080c023b324c",
             "type": "release",
             "version": "1.9.2_HD_U_D7"
         },
         {
             "recommended": false,
             "releaseTime": "2017-03-15T00:00:00+00:00",
-            "sha256": "e25a5d191914e6e3db50cca63921738af16a0d5f21575f73a8250757f9f8cbb6",
+            "sha256": "24c4373f71f4a12125733e4d4984f99a86f460f9e373b0d3547fec7fef7082e5",
             "type": "release",
             "version": "1.8.8_HD_U_H7"
         },
         {
             "recommended": false,
             "releaseTime": "2017-03-14T00:00:00+00:00",
-            "sha256": "f4faeb1b5f81dd564e48d9894ff25295575b9e5878266dbbc9f9dbf1019cac2f",
+            "sha256": "332d9389a4c17bca5714ccd35954a420bd5884ca268d1641fea139d97dfc849b",
             "type": "release",
             "version": "1.10.2_HD_U_D7"
         },
         {
             "recommended": false,
             "releaseTime": "2017-03-14T00:00:00+00:00",
-            "sha256": "0f91c9dfc021052e648eff79c56aa9e514f789cff543ebc82ec56be287b1791f",
+            "sha256": "acd9db76862150532cc9e830c67c015cc84110d4811bf1a5d683abf6713b3a18",
             "type": "release",
             "version": "1.10_HD_U_D7"
         },
         {
             "recommended": false,
             "releaseTime": "2017-03-14T00:00:00+00:00",
-            "sha256": "244b039f79dc3f3ffd2916520afc06db8064c7d90a6e4774585b91c39afebbd2",
+            "sha256": "86618d6138bbec0a60031845ecd7f951fd0816112b963945d87d26df497399f0",
             "type": "release",
             "version": "1.11_HD_U_B7"
         },
         {
             "recommended": false,
             "releaseTime": "2017-03-14T00:00:00+00:00",
-            "sha256": "38b04b0ba2d501a8cdb79088bf920c8f2a3747a2c33972748e0032c97166faa1",
+            "sha256": "a34e233a31042433f014813710a630064f7143c856a5a14b5223e7dd7ecebb69",
             "type": "release",
             "version": "1.7.10_HD_U_D7"
         },
         {
             "recommended": false,
             "releaseTime": "2017-03-14T00:00:00+00:00",
-            "sha256": "da7971bc14e080674e21b842d1da89b0d7a0cee91dd71734e40991e4c2d4ad47",
+            "sha256": "e8e43bc6c79455b0f522e2442c453f4806110797b02012de6eecf61639f0ecbd",
             "type": "release",
             "version": "1.8.0_HD_U_H7"
         },
         {
             "recommended": false,
             "releaseTime": "2017-03-14T00:00:00+00:00",
-            "sha256": "0271c73b36721722b1c477af50477b2b1c90b2850a2639dd1ffb0c5927216bdc",
+            "sha256": "9410d20b9c84780dc2d785c05ae2243d93dfa9757b08688079910c17495aa6bf",
             "type": "release",
             "version": "1.8.9_HD_U_H7"
         },
         {
             "recommended": false,
             "releaseTime": "2017-03-14T00:00:00+00:00",
-            "sha256": "3c655ac543485e8ba741280fa2c3bb733eb869ca435e6cb668141a50b76adf0a",
+            "sha256": "20fc224328c962444da91f8a4dacc4ad1525d2b2e7e8582570478ed712519382",
             "type": "release",
             "version": "1.9.0_HD_U_D7"
         },
         {
             "recommended": false,
             "releaseTime": "2017-03-14T00:00:00+00:00",
-            "sha256": "d59762ebeb455b2ff7c9c10c7f678328a20b6379159a2ba6fcac0cda26cf68e2",
+            "sha256": "eb9750843714616b5e1791c1b5782623df35b5d12420f8caaf409086f9393ba4",
             "type": "release",
             "version": "1.9.4_HD_U_D7"
         },
         {
             "recommended": false,
             "releaseTime": "2017-02-09T00:00:00+00:00",
-            "sha256": "d3fd874f156fa0c4e645b2dc0a6e094ad7d1a85fee97d43bea6599cfc1040a60",
+            "sha256": "64025f337936d04509e4746ad4abf1730d9e0e78fc8d6c62257f05e18f259d1b",
             "type": "release",
             "version": "1.11.2_HD_U_B7"
         },
         {
             "recommended": false,
             "releaseTime": "2017-01-12T00:00:00+00:00",
-            "sha256": "97b60f8383ca995dbed61271b25fcf33a2d5f40f21a70ea25bca5a62a813a62b",
+            "sha256": "d2ae739f1d517a3514d99027a525c7b7820b8d8b875a2aa7dcfd60716b0caa77",
             "type": "release",
             "version": "1.10.2_HD_U_D6"
         },
         {
             "recommended": false,
             "releaseTime": "2017-01-12T00:00:00+00:00",
-            "sha256": "8337b49dec1600305d259d04cf6b680bcd3de71b62f6521e11cf15c0452e2dff",
+            "sha256": "f4e7d0d8abc3de32481d49b1ce5ce4de80f2dc288e5162663031be2a7a1386fb",
             "type": "release",
             "version": "1.11.2_HD_U_B6"
         },
         {
             "recommended": false,
             "releaseTime": "2017-01-12T00:00:00+00:00",
-            "sha256": "e5ab4527ca7fd5d6caa27f4843cd3416db5da5ebf0ce421a1d0cd806e7cbbcc4",
+            "sha256": "3cf890a2f1e9b5e821608505c67311e61f4374ec7ec74e4dbdd89113d31a860c",
             "type": "release",
             "version": "1.11_HD_U_B6"
         },
         {
             "recommended": false,
             "releaseTime": "2016-12-22T00:00:00+00:00",
-            "sha256": "f75d24f561f5678ddce308268c6da393b8980eba50b0ca8d8570aff050bc1e15",
+            "sha256": "58af6a4bad8a1d73cdbf348464b01e53621f68e45809769792fa63363be75f30",
             "type": "release",
             "version": "1.11.2_HD_U_B5"
         },
         {
             "recommended": false,
             "releaseTime": "2016-12-22T00:00:00+00:00",
-            "sha256": "5927e85f7082cff9b013a7994b005dc48fd903c3a4924ffca1f6d481a82bb0f9",
+            "sha256": "678a1c85452711eae55c5d8157db207eb400a2bfdf26c77d1936027d8c9ff67b",
             "type": "release",
             "version": "1.11_HD_U_B5"
         },
         {
             "recommended": false,
             "releaseTime": "2016-12-19T00:00:00+00:00",
-            "sha256": "ed8e687b093d281222084b63ca1e7c6601e84313445ca8ece0c9987c78131018",
+            "sha256": "9b3c8276551f99664d955daa287e7cd914b650ba4f871b4af184817304b23bfb",
             "type": "release",
             "version": "1.11_HD_U_B3"
         },
         {
             "recommended": false,
             "releaseTime": "2016-12-01T00:00:00+00:00",
-            "sha256": "e679fa1098e44163028572f841a550485f2430c635bdc6cafb6be5744a36164d",
+            "sha256": "6fbb68333b8a73c394b0daf2e7500d67bb4c79ad2fbcd63fdc5d82119879c10b",
             "type": "release",
             "version": "1.11_HD_U_B2"
         },
         {
             "recommended": false,
             "releaseTime": "2016-11-24T00:00:00+00:00",
-            "sha256": "c1fb01d96fadebc70286bbcb5c0c1c8888619c102250bb696633e3a900724cb3",
+            "sha256": "9947b6bc9f610d73aeeec001bce6c4d364a72370d809e5c833707c1aed1df3d2",
             "type": "release",
             "version": "1.10.2_HD_U_D4"
         },
         {
             "recommended": false,
             "releaseTime": "2016-11-24T00:00:00+00:00",
-            "sha256": "1c7cc86446a116768ab6c6cc644489424c7bba1f3752c10d50df890e1b06a7d0",
+            "sha256": "ebf3cd6f849449ce5e1c805d0d1c2cc7487281061d4429d0d6e3a350482a97bf",
             "type": "release",
             "version": "1.11_HD_U_B1"
         },
         {
             "recommended": false,
             "releaseTime": "2016-11-16T00:00:00+00:00",
-            "sha256": "b16500b6efeb9490e579190d1006cecb824a7620bee5a2580707fec49815fd2c",
+            "sha256": "2c9915143d0188ca6ed45e957dbb7962ddebbdbbb58696e4f6bf4fbc6abba86b",
             "type": "release",
             "version": "1.10.2_HD_U_D3"
         },
         {
             "recommended": false,
             "releaseTime": "2016-10-28T00:00:00+00:00",
-            "sha256": "17425ed7e54b663b0bcf1459e5051f49a1ce41bca8dd147966d14422bc9f3872",
+            "sha256": "b225eaf46f2d015eb1f7a8bd2c618562892e9cfcde76792de9528da8f535f7d2",
             "type": "release",
             "version": "1.10.2_HD_U_D2"
         },
         {
             "recommended": false,
             "releaseTime": "2016-10-17T00:00:00+00:00",
-            "sha256": "35fafc69873dbcb42fcdc5d90765591d730bc66e64729bb85331ac2eec9b18ec",
+            "sha256": "e22043d2b542382f5a92809f6e13d39b320f929eb0fca27e379783902e7926d2",
             "type": "release",
             "version": "1.10.2_HD_U_D1"
         },
         {
             "recommended": false,
             "releaseTime": "2016-08-25T00:00:00+00:00",
-            "sha256": "e1de8f23a9cc747bda0218d91d78e07e3de8cba30b33382f1f8678f946e77185",
+            "sha256": "788b2da87dc9fea03901c3f7679dada75ac4a7e5dbbc119856ddc6b31dec6900",
             "type": "release",
             "version": "1.10.2_HD_U_C3"
         },
         {
             "recommended": false,
             "releaseTime": "2016-07-06T00:00:00+00:00",
-            "sha256": "850868ef6482c23c1b234620dce0190a30781646600419a871395bd61cf9fd33",
+            "sha256": "5dd5f7d09e6ed32be2ec82e383aebd59cf8fdc81eefa24b0d8738a48efc7dff1",
             "type": "release",
             "version": "1.10.2_HD_U_C2"
         },
         {
             "recommended": false,
             "releaseTime": "2016-06-30T00:00:00+00:00",
-            "sha256": "1a040393822c60b0d935443cec95eaebc22e6d5f797ffebff274fc433fbbaba7",
+            "sha256": "6e76aa2a9678da1166e1dcad65126423a8bd3689f5c92c961aca5d2d08bb7760",
             "type": "release",
             "version": "1.10.2_HD_U_C1"
         },
         {
             "recommended": false,
             "releaseTime": "2016-06-30T00:00:00+00:00",
-            "sha256": "c11f9f2154d95e1e4000a85a2065a94fb0e724c81cff2bbf2e89cc8d6cd9ee2a",
+            "sha256": "fb301907bb5caa3fb4c664a094f3184904dbe540aa68f20603b417b6cfacab91",
             "type": "release",
             "version": "1.10_HD_U_C1"
         },
         {
             "recommended": false,
             "releaseTime": "2016-06-30T00:00:00+00:00",
-            "sha256": "7a6d57342f680260277fbcd70b7c29b8bd711967439aa9df1f430bdb747a89fa",
+            "sha256": "84a19fe51ac54922969255028c7bcaa72f995d2e8488a2d294b4af7707fce8b8",
             "type": "release",
             "version": "1.9.4_HD_U_B6"
         },
         {
             "recommended": false,
             "releaseTime": "2016-06-29T00:00:00+00:00",
-            "sha256": "8e10c91ce6cdbd7751227bde6a807f9c60040b5b097b4efbc60f68dc02572d47",
+            "sha256": "b9e72616b7afaa78927254b49f9aaab7751223a8d8d670b78cf672b3be26b35b",
             "type": "release",
             "version": "1.7.10_HD_U_D6"
         },
         {
             "recommended": false,
             "releaseTime": "2016-06-24T00:00:00+00:00",
-            "sha256": "f1be9bbd4ebfb052d3ea69add61d814cfdefb9dd6fcdc950f1d71b8a34985fb3",
+            "sha256": "9d9e822924bdc967c79c6d4ee0d4171c2ff3f0fc686ed9688ddfc05555f74d4b",
             "type": "release",
             "version": "1.10_HD_U_B7"
         },
         {
             "recommended": false,
             "releaseTime": "2016-06-15T00:00:00+00:00",
-            "sha256": "4d804befeccef38b40d58d22795b27160a464e09fbea8fc4e143a82ec1ee7c3d",
+            "sha256": "1d09e8ac42bb47f7a8dd885e3682ad8cc85895b8ec8198e66a76e7b18bdcd9b8",
             "type": "release",
             "version": "1.10_HD_U_B6"
         },
         {
             "recommended": false,
             "releaseTime": "2016-06-07T00:00:00+00:00",
-            "sha256": "7d1a910e9ea1f291a4be82f60df2f8d8f4ba71d84ae7fc34fed42a0557ec1458",
+            "sha256": "d68dd9e1e3c3115810a7741e516d14d102978980b9fe8d23f7c4a2d75e7620f9",
             "type": "release",
             "version": "1.8.0_HD_U_H6"
         },
         {
             "recommended": false,
             "releaseTime": "2016-06-07T00:00:00+00:00",
-            "sha256": "983b471815845dd6d87660d91fdd4cc70e078f3585b8db76ce60639597442477",
+            "sha256": "08713ab645558ee020b5be24bf588ea469561934021efbb5a7fbe1c245851830",
             "type": "release",
             "version": "1.8.8_HD_U_H6"
         },
         {
             "recommended": false,
             "releaseTime": "2016-06-07T00:00:00+00:00",
-            "sha256": "c23d2376f6c10b372a075933377072390853fadb7a78b7d7610ccbef6174952a",
+            "sha256": "ac679c5a39256c361535e092bba87ad05dd0d6a8f801dd4c0735444c971a8078",
             "type": "release",
             "version": "1.8.9_HD_U_H6"
         },
         {
             "recommended": false,
             "releaseTime": "2016-06-07T00:00:00+00:00",
-            "sha256": "bd3321cd3237e54ae3991089eb31fe289247ea97f9bd2ab05e9910fa6424f69f",
+            "sha256": "53b32189768dd0e92ac14cae192ea9792f4df9764410724222c3791edf9f2440",
             "type": "release",
             "version": "1.9.0_HD_U_B5"
         },
         {
             "recommended": false,
             "releaseTime": "2016-06-07T00:00:00+00:00",
-            "sha256": "1ed871957f5b3578ecc38146bdcca713fe329515345c1c6db1d1ea70141c0e08",
+            "sha256": "4db1e8deff5d1287bd4ab0bdd60d2d52d0afec145d39e4af85365fd1c77e26de",
             "type": "release",
             "version": "1.9.4_HD_U_B5"
         },
         {
             "recommended": false,
             "releaseTime": "2016-05-19T00:00:00+00:00",
-            "sha256": "41f1881c8a4386853c6bdf60b30836e75796151f53a588f0660e42053a1de03e",
+            "sha256": "0f5f70eb81115f535b83530957fa2b52a3732d3863d1dd206ce3dc7a64045373",
             "type": "release",
             "version": "1.9.4_HD_U_B4"
         },
         {
             "recommended": false,
             "releaseTime": "2016-05-13T00:00:00+00:00",
-            "sha256": "7364fd5fecdeb1a4aadd17bfc96f353f5b07a65f2f023172d9a44825b0ec6620",
+            "sha256": "c3b346734e46101d7ba7efdac377fb6ee1d9765502736548ea1f1b873d51d274",
             "type": "release",
             "version": "1.9.0_HD_U_B3"
         },
         {
             "recommended": false,
             "releaseTime": "2016-05-13T00:00:00+00:00",
-            "sha256": "1f4aefc8b7531779fa7ad59698501f60a6392b57ee25afaaa698b7578dedea4a",
+            "sha256": "b18da68e136e2311ab662861750961ca6d062a4d5b20e5f0b3be7e38b219e85a",
             "type": "release",
             "version": "1.9.2_HD_U_B3"
         },
         {
             "recommended": false,
             "releaseTime": "2016-04-28T00:00:00+00:00",
-            "sha256": "09f54c984d0f8f7067364e346437d32f287c9caa9b396aaa57283cdbbdeaed3c",
+            "sha256": "7f03f6e289d760a8464085ff1a0bcbcadf99db6ba0e448ca1012c2fe96073312",
             "type": "release",
             "version": "1.7.10_HD_U_D4"
         },
         {
             "recommended": false,
             "releaseTime": "2016-04-28T00:00:00+00:00",
-            "sha256": "156b0c1391fbf3ea5b81bffed74ba4fc24f0f7ea232967deaebed3b0ea38b32d",
+            "sha256": "0c4a7fe4f9460163467f3fd18491b5b5c98a6c6a1bf23279d5d081137a9ed99a",
             "type": "release",
             "version": "1.7.2_HD_U_E4"
         },
         {
             "recommended": false,
             "releaseTime": "2016-04-27T00:00:00+00:00",
-            "sha256": "090b8a7ec06a98741402728a2c0e387b84dac9ae41617e2414dd5fc55c5de13e",
+            "sha256": "cd3efdfcd1cc048c847b116b77279bb642bbacfa245710eb1dd0b171314ee2d9",
             "type": "release",
             "version": "1.9.0_HD_U_B2"
         },
         {
             "recommended": false,
             "releaseTime": "2016-04-27T00:00:00+00:00",
-            "sha256": "aa3c0e7947aea8f756397f1a5ee2477d1106b47d16e827a280435c61a1809574",
+            "sha256": "37d3ab625ca2247af40d633726aabb7c492687daaa220af99a14866db1847cec",
             "type": "release",
             "version": "1.9.2_HD_U_B2"
         },
         {
             "recommended": false,
             "releaseTime": "2016-04-02T00:00:00+00:00",
-            "sha256": "c44e2a6124541280b1cb11c0d2084c75cb72977ae395b7583c38ee27f6b3ece7",
+            "sha256": "6e593506b414c60d04ffdc86570790799f18b5a25ad2279814fd284dddbfa30b",
             "type": "release",
             "version": "1.9.2_HD_U_B1"
         },
         {
             "recommended": false,
             "releaseTime": "2016-03-26T00:00:00+00:00",
-            "sha256": "db12c876f6d5258638b40fa540973c61b7ee77cb9caeae7a62214e1b807a1a1b",
+            "sha256": "b12ec573f13240a3d49134ad3311c0c5c860edb661dfc243bf8bec639f8c9fa2",
             "type": "release",
             "version": "1.9.0_HD_U_B1"
         },
         {
             "recommended": false,
             "releaseTime": "2016-03-20T00:00:00+00:00",
-            "sha256": "c242a19e911932a074b3f087ee2b8465ade03a9413380e89a55062b66a6fcda3",
+            "sha256": "ac05399347d237764832c63fd88cf35cbe5bbb31da68c3dec97b1f11b0d219cd",
             "type": "release",
             "version": "1.7.10_HD_U_D3"
         },
         {
             "recommended": false,
             "releaseTime": "2016-03-20T00:00:00+00:00",
-            "sha256": "a54ffef281bde2afe8cfeb63eef8194e16b94ec093935772c492253d01180de0",
+            "sha256": "2181d8f681bb7583e4a242a65daaf3b0ca726bfe5a05e6b3ed61aaa0661f9b7c",
             "type": "release",
             "version": "1.7.2_HD_U_E3"
         },
         {
             "recommended": false,
             "releaseTime": "2016-03-20T00:00:00+00:00",
-            "sha256": "e71e1fb1047000e6242b75ffb01c34c2a2602fabfaa65fc4ac8971995e7939d3",
+            "sha256": "dedf0e5f2a2e3d0bec3a0ca199aae3d3673aa50dbb8b6897b07df9a95862060d",
             "type": "release",
             "version": "1.8.0_HD_U_H5"
         },
         {
             "recommended": false,
             "releaseTime": "2016-03-20T00:00:00+00:00",
-            "sha256": "f4400e2bc48a5338b73635ac8c7e9544b02d4c3af99ae6111d744ee99c6dd6e6",
+            "sha256": "4862bca967b5464328a42dca033f992b39d8bffe84cf8289a17827965f015c46",
             "type": "release",
             "version": "1.8.8_HD_U_H5"
         },
         {
             "recommended": false,
             "releaseTime": "2016-03-20T00:00:00+00:00",
-            "sha256": "d73f6308ef959b694fb0e3eead1087c132e2f70b845d009baa28a07202ca2866",
+            "sha256": "daca2be6e28d43f5d207ec3796db5d9ef91857485d59d0d430edc889d6f3eedf",
             "type": "release",
             "version": "1.8.9_HD_U_H5"
         }

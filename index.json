@@ -48,7 +48,7 @@
         },
         {
             "name": "Forge",
-            "sha256": "0dc4a6c7cee681ac3e2cf1c1efdd032bdc0756fa7a476a7e98db5ea813db6ca5",
+            "sha256": "e3c3dc36654d1daa802e4eb5a71005f9365417cd84b9fa479c50ec1bd1d44ead",
             "uid": "net.minecraftforge"
         },
         {
@@ -58,7 +58,7 @@
         },
         {
             "name": "NeoForge",
-            "sha256": "a3118f40c2af8bb0bd99233b68c4934332fc75ec8531904d879f82055011ced5",
+            "sha256": "898f06a91616a24b0de897476fd943bcabb4817bc4aa6be9cdb8f0fcfdfa4684",
             "uid": "net.neoforged"
         },
         {

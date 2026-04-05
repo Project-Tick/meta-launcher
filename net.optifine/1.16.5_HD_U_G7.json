@@ -6,7 +6,7 @@
                 "artifact": {
                     "sha256": "8066b7de597bb06ad30779a5e01dacc5c60487883b0fbd6419a88f38f099f028",
                     "size": 5924305,
-                    "url": "https://optifine.net/downloadx?f=OptiFine_1.16.5_HD_U_G7.jar&x=d04b110697fb81cad5514f62b1eec555"
+                    "url": "https://optifine.net/download?f=OptiFine_1.16.5_HD_U_G7.jar"
                 }
             }
         }
@@ -14,6 +14,12 @@
     "name": "OptiFine HD U G7",
     "order": 10,
     "releaseTime": "2021-03-04T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.16.5",
+            "uid": "net.minecraft"
+        }
+    ],
     "type": "release",
     "uid": "net.optifine",
     "version": "1.16.5_HD_U_G7"

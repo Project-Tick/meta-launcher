@@ -6,7 +6,7 @@
                 "artifact": {
                     "sha256": "58bd0865025a99d031220bdc855ede653aff865e49bda2064a31f4b1cf11622c",
                     "size": 2668221,
-                    "url": "https://optifine.net/downloadx?f=preview_OptiFine_1.12.2_HD_U_G6_pre1.jar&x=d04b110697fb81cad5514f62b1eec555"
+                    "url": "https://optifine.net/download?f=preview_OptiFine_1.12.2_HD_U_G6_pre1.jar"
                 }
             }
         }
@@ -14,7 +14,13 @@
     "name": "OptiFine HD U G6 pre1",
     "order": 10,
     "releaseTime": "2021-03-23T00:00:00+00:00",
-    "type": "release",
+    "requires": [
+        {
+            "equals": "1.12.2",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "snapshot",
     "uid": "net.optifine",
     "version": "preview_OptiFine_1.12.2_HD_U_G6_pre1"
 }

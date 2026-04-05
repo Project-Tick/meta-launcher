@@ -6,7 +6,7 @@
                 "artifact": {
                     "sha256": "0780a17c3d3697288e5e5e2bacc575fcca8128ad0c316ce643d8a67623da43d2",
                     "size": 2576846,
-                    "url": "https://optifine.net/downloadx?f=OptiFine_1.10_HD_U_H5.jar&x=d04b110697fb81cad5514f62b1eec555"
+                    "url": "https://optifine.net/download?f=OptiFine_1.10_HD_U_H5.jar"
                 }
             }
         }
@@ -14,6 +14,12 @@
     "name": "OptiFine HD U H5",
     "order": 10,
     "releaseTime": "2019-12-04T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.10",
+            "uid": "net.minecraft"
+        }
+    ],
     "type": "release",
     "uid": "net.optifine",
     "version": "1.10_HD_U_H5"

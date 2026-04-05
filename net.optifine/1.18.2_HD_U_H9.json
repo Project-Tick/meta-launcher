@@ -6,7 +6,7 @@
                 "artifact": {
                     "sha256": "bd730a7e091d1be919a19a45f5efca2c0096e182fe4f02cea02a7b094f34c151",
                     "size": 6725140,
-                    "url": "https://optifine.net/downloadx?f=OptiFine_1.18.2_HD_U_H9.jar&x=d04b110697fb81cad5514f62b1eec555"
+                    "url": "https://optifine.net/download?f=OptiFine_1.18.2_HD_U_H9.jar"
                 }
             }
         }
@@ -14,6 +14,12 @@
     "name": "OptiFine HD U H9",
     "order": 10,
     "releaseTime": "2023-06-26T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.18.2",
+            "uid": "net.minecraft"
+        }
+    ],
     "type": "release",
     "uid": "net.optifine",
     "version": "1.18.2_HD_U_H9"

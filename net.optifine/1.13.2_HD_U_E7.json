@@ -6,7 +6,7 @@
                 "artifact": {
                     "sha256": "0ad0c5c222ec810328e90642e4e8e9c0d45f725e61989ca43325e7502bc4e306",
                     "size": 2709891,
-                    "url": "https://optifine.net/downloadx?f=OptiFine_1.13.2_HD_U_E7.jar&x=d04b110697fb81cad5514f62b1eec555"
+                    "url": "https://optifine.net/download?f=OptiFine_1.13.2_HD_U_E7.jar"
                 }
             }
         }
@@ -14,6 +14,12 @@
     "name": "OptiFine HD U E7",
     "order": 10,
     "releaseTime": "2019-03-22T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.13.2",
+            "uid": "net.minecraft"
+        }
+    ],
     "type": "release",
     "uid": "net.optifine",
     "version": "1.13.2_HD_U_E7"

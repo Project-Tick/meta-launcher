@@ -6,7 +6,7 @@
                 "artifact": {
                     "sha256": "9d66e43b74b18582f8d51df242d35cb719040921f9c300506a08b037bdfdf2c9",
                     "size": 2087295,
-                    "url": "https://optifine.net/downloadx?f=OptiFine_1.11.2_HD_U_C2.jar&x=d04b110697fb81cad5514f62b1eec555"
+                    "url": "https://optifine.net/download?f=OptiFine_1.11.2_HD_U_C2.jar"
                 }
             }
         }
@@ -14,6 +14,12 @@
     "name": "OptiFine HD U C2",
     "order": 10,
     "releaseTime": "2017-06-13T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.11.2",
+            "uid": "net.minecraft"
+        }
+    ],
     "type": "release",
     "uid": "net.optifine",
     "version": "1.11.2_HD_U_C2"

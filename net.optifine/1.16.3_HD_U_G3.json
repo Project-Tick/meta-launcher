@@ -6,7 +6,7 @@
                 "artifact": {
                     "sha256": "39e3b20ac72135f857a1515e8843f64037f62ed60a7ea917bf4ab9c483f4b06a",
                     "size": 5791172,
-                    "url": "https://optifine.net/downloadx?f=OptiFine_1.16.3_HD_U_G3.jar&x=d04b110697fb81cad5514f62b1eec555"
+                    "url": "https://optifine.net/download?f=OptiFine_1.16.3_HD_U_G3.jar"
                 }
             }
         }
@@ -14,6 +14,12 @@
     "name": "OptiFine HD U G3",
     "order": 10,
     "releaseTime": "2020-09-16T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.16.3",
+            "uid": "net.minecraft"
+        }
+    ],
     "type": "release",
     "uid": "net.optifine",
     "version": "1.16.3_HD_U_G3"

@@ -6,7 +6,7 @@
                 "artifact": {
                     "sha256": "a23369e9ee93b2e33b5850817605886d7952dfa2d1269dd5208b9f8931025bc5",
                     "size": 5766895,
-                    "url": "https://optifine.net/downloadx?f=OptiFine_1.16.2_HD_U_G5.jar&x=d04b110697fb81cad5514f62b1eec555"
+                    "url": "https://optifine.net/download?f=OptiFine_1.16.2_HD_U_G5.jar"
                 }
             }
         }
@@ -14,6 +14,12 @@
     "name": "OptiFine HD U G5",
     "order": 10,
     "releaseTime": "2020-11-06T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.16.2",
+            "uid": "net.minecraft"
+        }
+    ],
     "type": "release",
     "uid": "net.optifine",
     "version": "1.16.2_HD_U_G5"

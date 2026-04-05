@@ -18,7 +18,7 @@
         },
         {
             "name": "ModLoaderMP",
-            "sha256": "cd75ad10e3a1700f14d9a7b9890f581520065f74623384e3ef057ef2151260db",
+            "sha256": "2c78c6a44f87daec1dcf8f4a5d3b79190f47e89f1b157631696cf614d041a765",
             "uid": "modloadermp"
         },
         {
@@ -33,12 +33,12 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "5b3218030174ee84e7b15aae81675dc1f5782ba432aa4c222bd27e165ed2487b",
+            "sha256": "b8c8204d03179eff3b2997bf354ffb3170cb77de8f0700f8a0f511befcc5e146",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "8ce3953ab51da4a4cd4745971c5cbfa9cef131170b1686d4bf5f3b53de12eef4",
+            "sha256": "44551e6495efa5ed380cd23603c583eebebb37cf91325d9342ec97540c6490b9",
             "uid": "net.minecraft"
         },
         {
@@ -52,13 +52,18 @@
             "uid": "net.minecraftforge"
         },
         {
+            "name": "StationAPI",
+            "sha256": "92077776046bafabd5544e399d22b9687c5258425923c45b67feed63393ec72c",
+            "uid": "net.modificationstation.stationloader"
+        },
+        {
             "name": "NeoForge",
             "sha256": "a3118f40c2af8bb0bd99233b68c4934332fc75ec8531904d879f82055011ced5",
             "uid": "net.neoforged"
         },
         {
             "name": "OptiFine",
-            "sha256": "23db5798d755839057a611352e8576bf28d25d72b49209592411428c996bef40",
+            "sha256": "ac9f21def2e31dbe58ea6b8b98cc79b6c6f6a6659e1f495674439a1f727bf4c0",
             "uid": "net.optifine"
         },
         {
@@ -80,6 +85,11 @@
             "name": "Risugami ModLoader",
             "sha256": "d0e80353a0afb8125acc8c10f4932ebb32f401cd767c18814eca17d723a82500",
             "uid": "risugami"
+        },
+        {
+            "name": "Risugami ModLoader",
+            "sha256": "896f62af592151313ae6c14a747a9081de800af5997d403e8cdf58a46b62e0e8",
+            "uid": "risugami.modloader"
         },
         {
             "name": "Station Loader",

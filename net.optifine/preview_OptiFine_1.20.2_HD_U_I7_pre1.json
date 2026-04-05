@@ -6,7 +6,7 @@
                 "artifact": {
                     "sha256": "6b2293a6eeed777f56620154369b660d2632303660f85a0577ffac1443738223",
                     "size": 7192269,
-                    "url": "https://optifine.net/downloadx?f=preview_OptiFine_1.20.2_HD_U_I7_pre1.jar&x=d04b110697fb81cad5514f62b1eec555"
+                    "url": "https://optifine.net/download?f=preview_OptiFine_1.20.2_HD_U_I7_pre1.jar"
                 }
             }
         }
@@ -14,7 +14,13 @@
     "name": "OptiFine HD U I7 pre1",
     "order": 10,
     "releaseTime": "2023-12-21T00:00:00+00:00",
-    "type": "release",
+    "requires": [
+        {
+            "equals": "1.20.2",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "snapshot",
     "uid": "net.optifine",
     "version": "preview_OptiFine_1.20.2_HD_U_I7_pre1"
 }

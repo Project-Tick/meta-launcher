@@ -6,7 +6,7 @@
                 "artifact": {
                     "sha256": "eb9aa1ad2eb9a65561da1d47e92680950da03147c961570a98bc9daf9d084a81",
                     "size": 1658897,
-                    "url": "https://optifine.net/downloadx?f=OptiFine_1.7.2_HD_U_F3.jar&x=d04b110697fb81cad5514f62b1eec555"
+                    "url": "https://optifine.net/download?f=OptiFine_1.7.2_HD_U_F3.jar"
                 }
             }
         }
@@ -14,6 +14,12 @@
     "name": "OptiFine HD U F3",
     "order": 10,
     "releaseTime": "2017-10-26T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.7.2",
+            "uid": "net.minecraft"
+        }
+    ],
     "type": "release",
     "uid": "net.optifine",
     "version": "1.7.2_HD_U_F3"

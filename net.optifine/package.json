@@ -1,12 +1,12 @@
 {
-    "description": "OptiFine installer and downloads",
+    "description": "OptiFine - Minecraft performance and graphics mod",
     "formatVersion": 1,
     "name": "OptiFine",
     "projectUrl": "https://optifine.net",
     "recommended": [
         "1.21.11_HD_U_J9",
         "1.21.11_HD_U_J8",
-        "preview_OptiFine_1.21.10_HD_U_J7_pre11"
+        "1.21.4_HD_U_J3"
     ],
     "uid": "net.optifine"
 }

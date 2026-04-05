@@ -6,7 +6,7 @@
                 "artifact": {
                     "sha256": "3916aadff6fd8814f93d5ca0fddf4921f67772737b1208099b1debaeb671667b",
                     "size": 7304461,
-                    "url": "https://optifine.net/downloadx?f=OptiFine_1.21.3_HD_U_J2.jar&x=d04b110697fb81cad5514f62b1eec555"
+                    "url": "https://optifine.net/download?f=OptiFine_1.21.3_HD_U_J2.jar"
                 }
             }
         }
@@ -14,6 +14,12 @@
     "name": "OptiFine HD U J2",
     "order": 10,
     "releaseTime": "2024-12-03T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.21.3",
+            "uid": "net.minecraft"
+        }
+    ],
     "type": "release",
     "uid": "net.optifine",
     "version": "1.21.3_HD_U_J2"

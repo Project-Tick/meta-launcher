@@ -6,7 +6,7 @@
                 "artifact": {
                     "sha256": "d57b7fd7bd519bbe4fdbf36cceebfb64d459b7713e1afb0bf6549c21b476a028",
                     "size": 2584186,
-                    "url": "https://optifine.net/downloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar&x=d04b110697fb81cad5514f62b1eec555"
+                    "url": "https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar"
                 }
             }
         }
@@ -14,7 +14,13 @@
     "name": "OptiFine HD U M6 pre2",
     "order": 10,
     "releaseTime": "2021-11-01T00:00:00+00:00",
-    "type": "release",
+    "requires": [
+        {
+            "equals": "1.8.9",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "snapshot",
     "uid": "net.optifine",
     "version": "preview_OptiFine_1.8.9_HD_U_M6_pre2"
 }

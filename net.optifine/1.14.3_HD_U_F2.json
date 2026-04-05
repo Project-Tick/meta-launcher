@@ -6,7 +6,7 @@
                 "artifact": {
                     "sha256": "50e21bcff95d3c0645a23ddfdea4287e8f44a8bb5578292461dabd7a93d09e03",
                     "size": 2647367,
-                    "url": "https://optifine.net/downloadx?f=OptiFine_1.14.3_HD_U_F2.jar&x=d04b110697fb81cad5514f62b1eec555"
+                    "url": "https://optifine.net/download?f=OptiFine_1.14.3_HD_U_F2.jar"
                 }
             }
         }
@@ -14,6 +14,12 @@
     "name": "OptiFine HD U F2",
     "order": 10,
     "releaseTime": "2019-07-20T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.14.3",
+            "uid": "net.minecraft"
+        }
+    ],
     "type": "release",
     "uid": "net.optifine",
     "version": "1.14.3_HD_U_F2"

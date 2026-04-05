@@ -6,7 +6,7 @@
                 "artifact": {
                     "sha256": "971a794ac9c91021ff4b8a1286e39c9bd9a1154078e5135e86a07744ad543e57",
                     "size": 7331498,
-                    "url": "https://optifine.net/downloadx?f=preview_OptiFine_1.20.6_HD_U_J1_pre17.jar&x=d04b110697fb81cad5514f62b1eec555"
+                    "url": "https://optifine.net/download?f=preview_OptiFine_1.20.6_HD_U_J1_pre17.jar"
                 }
             }
         }
@@ -14,7 +14,13 @@
     "name": "OptiFine HD U J1 pre17",
     "order": 10,
     "releaseTime": "2024-09-25T00:00:00+00:00",
-    "type": "release",
+    "requires": [
+        {
+            "equals": "1.20.6",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "snapshot",
     "uid": "net.optifine",
     "version": "preview_OptiFine_1.20.6_HD_U_J1_pre17"
 }

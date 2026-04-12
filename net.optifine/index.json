@@ -2803,19 +2803,6 @@
             "releaseTime": "2016-03-20T00:00:00+00:00",
             "requires": [
                 {
-                    "equals": "1.7.10",
-                    "uid": "net.minecraft"
-                }
-            ],
-            "sha256": "de6e9ef876f47df7b96c31c13a1ea84eb05d2211d23f4f1153a612387ce84612",
-            "type": "release",
-            "version": "1.7.10_HD_U_D3"
-        },
-        {
-            "recommended": false,
-            "releaseTime": "2016-03-20T00:00:00+00:00",
-            "requires": [
-                {
                     "equals": "1.7.2",
                     "uid": "net.minecraft"
                 }
@@ -2862,6 +2849,19 @@
             "sha256": "1e6b17bd07ae10dd168874836bcf049dae4e9566f65c54d8438559aa5255c72f",
             "type": "release",
             "version": "1.8.9_HD_U_H5"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2016-03-20T00:00:00+00:00",
+            "requires": [
+                {
+                    "equals": "1.7.10",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "de6e9ef876f47df7b96c31c13a1ea84eb05d2211d23f4f1153a612387ce84612",
+            "type": "release",
+            "version": "1.7.10_HD_U_D3"
         }
     ]
 }

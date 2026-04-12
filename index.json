@@ -33,7 +33,7 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "6fc3deb5b040e08c78b9bfa75a1b251baf63565287fa07a2508c2d7befc53289",
+            "sha256": "346b1e3221746bdd8d8267450c013b7d63497e75297656f72468afdbed412096",
             "uid": "net.fabricmc.intermediary"
         },
         {
@@ -63,7 +63,7 @@
         },
         {
             "name": "OptiFine",
-            "sha256": "ac9f21def2e31dbe58ea6b8b98cc79b6c6f6a6659e1f495674439a1f727bf4c0",
+            "sha256": "2ff5553444d673471d071e5811b7c17bee463f96cb3c4463456edd079853ad0e",
             "uid": "net.optifine"
         },
         {
@@ -73,7 +73,7 @@
         },
         {
             "name": "LWJGL 3",
-            "sha256": "498f069626d3f276fc645336cdb56b965edcedab6ebd37e5714e88326729c818",
+            "sha256": "6947fdd7863be194a879b7ee085a1c311bf86df24d2c3cf62f24aa80e200d5a9",
             "uid": "org.lwjgl3"
         },
         {

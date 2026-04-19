@@ -4,6 +4,8 @@
         {
             "downloads": {
                 "artifact": {
+                    "sha256": "6395d60ff6839b4d51c34cfbdd039e9f087964a4d08218a7da28f2770738bd64",
+                    "size": 2630962,
                     "url": "https://optifine.net/download?f=OptiFine_1.13.1_HD_U_E4.jar"
                 }
             }

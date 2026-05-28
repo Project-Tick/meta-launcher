@@ -5,6 +5,18 @@
     "versions": [
         {
             "recommended": false,
+            "releaseTime": "2026-05-28T11:16:11.474220+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "218cadcd9337791a6980b95e8b1f70c4aa56c45b18fcca94af4d3fa4fff63762",
+            "version": "21.1.232"
+        },
+        {
+            "recommended": false,
             "releaseTime": "2026-05-28T02:07:19.424547+00:00",
             "requires": [
                 {

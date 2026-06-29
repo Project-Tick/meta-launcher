@@ -2399,14 +2399,14 @@
         },
         {
             "recommended": true,
-            "releaseTime": "2024-04-01T12:23:24+00:00",
+            "releaseTime": "2024-04-01T12:23:22+00:00",
             "requires": [
                 {
                     "equals": "24w14potato",
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "edbc49f3e81734ca9b7f0a860cf634f10538cc5b37d320b23e7f6b093a681292",
+            "sha256": "3ab42a8120c1571ecd653e471434c2d7f2a6fc991d3b8d0d9698c5fc057e3878",
             "type": "release",
             "version": "24w14potato",
             "volatile": true

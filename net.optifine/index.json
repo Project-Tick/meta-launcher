@@ -25,7 +25,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "ca1114cdfc39aab96888c4c2803b4c1c85d09f3ba83864369222568f335c00c3",
+            "sha256": "9d81b5c2ad2adfe53af2d35165c0f87c5c2ba1a9a62ef6a79ef0f79447cd98c8",
             "type": "snapshot",
             "version": "preview_OptiFine_26.1.2_HD_U_K1_pre1"
         },
@@ -38,7 +38,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "79dd7d0c3bf78d5e2c88ec6eeec32e2e99a1f8df4ec9934153f0d3d135f1fdb9",
+            "sha256": "403c76d10c695e2ee0be8da38384400960d9272f36bf8191694f28525ebb06c6",
             "type": "release",
             "version": "1.21.11_HD_U_J9"
         },
@@ -181,7 +181,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "79e452fb2ac003a0d00a8c8c57d110f7706a149720ee213c090cf565be6eb504",
+            "sha256": "605a08674a934a319f7820d33c28e00c3f8deca268bc7f7c45325e31eb6c1bfa",
             "type": "snapshot",
             "version": "preview_OptiFine_1.21.7_HD_U_J6_pre7"
         },
@@ -1026,7 +1026,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "3c5720269a6af8cbdfe7414e3ba78d0a94776c68d5986fefb2941b26e4f81017",
+            "sha256": "7c2b6534396eb41452ab7ba28570348a3a4447eb64b60e04c95ffba2b9ab93d1",
             "type": "release",
             "version": "1.9.0_HD_U_I5"
         },

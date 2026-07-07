@@ -38,7 +38,7 @@
         },
         {
             "name": "Minecraft",
-            "sha256": "fe34d596f3fb5ab7fd402583cd2b4b9e3264068de57731f58698ecf497e63a5c",
+            "sha256": "fc232f3ecfee4b580fe16be687af629163416c95b9d7afa6b2bed7536a0fe545",
             "uid": "net.minecraft"
         },
         {
@@ -63,7 +63,7 @@
         },
         {
             "name": "OptiFine",
-            "sha256": "8955f2dd40aa0b4d8a10c36c69d2ff02d0cb99602bc417cd5cb5b7ab5702df28",
+            "sha256": "f95d983d41f1ac3e97b6faea3c6b092f67e885fafc0ba6ad5331a195962edf3b",
             "uid": "net.optifine"
         },
         {

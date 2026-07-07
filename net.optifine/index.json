@@ -1520,7 +1520,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "b4a9b1db75a0e3b275208945e98c0db0a702190723a76e1f5c7055ce6f06a167",
+            "sha256": "d0246581d0dcb763ffe3a6882d9400ab04400808d8f1a18a2df725c5d75bbf2f",
             "type": "release",
             "version": "1.12.2_HD_U_E1"
         },
@@ -2014,7 +2014,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "80c25e93845e55ccb260f843c87d1c46a7242ddb93dfe602d0e54cf8a09b8e9c",
+            "sha256": "78f9a365c0f540cc4665c5028e0a18da9486799ac69e788cb0fbe58d8655bb41",
             "type": "release",
             "version": "1.12_HD_U_C3"
         },

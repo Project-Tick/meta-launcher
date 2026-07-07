@@ -33,7 +33,7 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "a971c87967c32a1e0b6493b4376f4c8eb047abd51196cae3842ef7154301b881",
+            "sha256": "c86b38b98cf34156872a12d886844bc448fd75f21b706d3617477f82e6d86a95",
             "uid": "net.fabricmc.intermediary"
         },
         {
@@ -63,7 +63,7 @@
         },
         {
             "name": "OptiFine",
-            "sha256": "f95d983d41f1ac3e97b6faea3c6b092f67e885fafc0ba6ad5331a195962edf3b",
+            "sha256": "8955f2dd40aa0b4d8a10c36c69d2ff02d0cb99602bc417cd5cb5b7ab5702df28",
             "uid": "net.optifine"
         },
         {

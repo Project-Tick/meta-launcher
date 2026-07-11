@@ -38,7 +38,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "79dd7d0c3bf78d5e2c88ec6eeec32e2e99a1f8df4ec9934153f0d3d135f1fdb9",
+            "sha256": "403c76d10c695e2ee0be8da38384400960d9272f36bf8191694f28525ebb06c6",
             "type": "release",
             "version": "1.21.11_HD_U_J9"
         },
@@ -467,7 +467,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "1ad92f0378e4406c5cd6455362d1b109ec99bb2aeb2f2127c54f442c29a83679",
+            "sha256": "33bfd5550f82c94b8559dde0fa37cd1d790dfcedcb1118b9d9bf5bee90ba0576",
             "type": "snapshot",
             "version": "preview_OptiFine_1.20.2_HD_U_I7_pre1"
         },

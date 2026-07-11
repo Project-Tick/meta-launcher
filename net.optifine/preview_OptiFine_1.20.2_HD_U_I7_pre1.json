@@ -4,8 +4,6 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha256": "6b2293a6eeed777f56620154369b660d2632303660f85a0577ffac1443738223",
-                    "size": 7192269,
                     "url": "https://optifine.net/download?f=preview_OptiFine_1.20.2_HD_U_I7_pre1.jar"
                 }
             }

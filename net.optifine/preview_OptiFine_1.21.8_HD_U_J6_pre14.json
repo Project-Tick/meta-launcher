@@ -4,8 +4,6 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha256": "911e6cec71ebb573bb5da92e923ccdde171f83b772079b64ebba4e9feabb03e6",
-                    "size": 7686829,
                     "url": "https://optifine.net/download?f=preview_OptiFine_1.21.8_HD_U_J6_pre14.jar"
                 }
             }

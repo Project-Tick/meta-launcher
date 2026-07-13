@@ -51,7 +51,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "4bd5654689c344d6af650feb7c4d2d824bbada9ec65e7fe1ca1688f158158f82",
+            "sha256": "e62cb751adb129aaf764175a6b5973c45d3c8bfac58ef392db3ea4d2b34ff269",
             "type": "release",
             "version": "1.21.11_HD_U_J8"
         },
@@ -90,7 +90,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "ff66b1ce9116b4e619734f9d0f299dcdfda8e348ab7b016d341a8e1f53237110",
+            "sha256": "b8c419a34375f1b47a3371980a02aa216c5b4fa59b7448d5fc163b9c5c97fd08",
             "type": "snapshot",
             "version": "preview_OptiFine_1.21.10_HD_U_J7_pre9"
         },
@@ -129,7 +129,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "d7915b754d328442f49cdd0815e87f3640bc5d3a135bfb49080cec51cb1dfec0",
+            "sha256": "482e09c2a7895a71dc67cd50452965b60c7e69d4fd6ec7c1702744c13eea8956",
             "type": "snapshot",
             "version": "preview_OptiFine_1.21.8_HD_U_J6_pre16"
         },
@@ -142,7 +142,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "c43451bbe463fc2010668086000bcea81805315b1ad04bdddb5fae9b92b48f55",
+            "sha256": "8dcf92e759dfdff09cefff87e93e9eb8f135a52e27ba16c74ae39feab4836ad0",
             "type": "snapshot",
             "version": "preview_OptiFine_1.21.8_HD_U_J6_pre15"
         },
@@ -155,7 +155,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "8370d8f8b3ac7045dbe5fb982e1ac228a4657429dad8ede2b15de0656c8bfabb",
+            "sha256": "a0c3d05b904b27d8e62d54d4610273b31647ef7deb4f5f517080e742e10a8545",
             "type": "snapshot",
             "version": "preview_OptiFine_1.21.8_HD_U_J6_pre14"
         },
@@ -168,7 +168,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "d8279444aef94be3b3cdbbea040e7208e7221f3c2a4098dbfaca656987ef4c19",
+            "sha256": "66ac720086fd123027abf0864c9763c87aaee4423abe40e59fbe834bef32eb37",
             "type": "snapshot",
             "version": "preview_OptiFine_1.21.8_HD_U_J6_pre13"
         },
@@ -285,7 +285,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "3938a90d21c358b329968a7f9bdf3df0efda7352d777aba99f33c4a894b9633e",
+            "sha256": "8b1e8986ea9731abcf929aaeb50ed3652ee1e73bb8b3ad393a94e4dfd3403cf9",
             "type": "release",
             "version": "1.21.4_HD_U_J3"
         },
@@ -311,7 +311,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "429daeb1d0794a7e35f5c67a40db2005cfedbb1764591132fe24de141133b0c0",
+            "sha256": "9383da3299e9f6d830ee41cd34ac9a26187c3527e9b1974fcc4cc6af5f9aba9d",
             "type": "snapshot",
             "version": "preview_OptiFine_1.20.6_HD_U_J1_pre18"
         },
@@ -545,7 +545,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "fad80cc6ad23f4f2b89618d6828c27e8fc7bfa64558bfc04872439bbd7d54896",
+            "sha256": "561c6295e7ffa0dcea1f56155ff39473a692d291014739d6cc70298484ce2dc8",
             "type": "snapshot",
             "version": "preview_OptiFine_1.20_HD_U_I5_pre4"
         },
@@ -558,7 +558,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "82c4e7f034fd26e1a4be30ae2ff13ef0b2aaab6e9f07e3e2f5626d684387f3d8",
+            "sha256": "6b88eae77033f272d4235132f87d2b2726418dcc81266defd34ce3e5dd20b49a",
             "type": "release",
             "version": "1.19.3_HD_U_I3"
         },
@@ -857,7 +857,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "f839a5c557968b9cc256bb84bbb86a6bff26f17938347174c93baa85b591ddfc",
+            "sha256": "42f1886318eb58b498e58dcc4044900e59f4cae2316c267217564ce31a7ed471",
             "type": "release",
             "version": "1.16.4_HD_U_G7"
         },
@@ -1078,7 +1078,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "311f9ae3139e5955d671cfc1af0c4c3a85c635af4a885e49f1e46cddb48f15ac",
+            "sha256": "a84344c66c8a5bb11400d672a8f9bebb11a9af1edf2e0f1365842de1bd841356",
             "type": "release",
             "version": "1.16.2_HD_U_G5"
         },
@@ -1130,7 +1130,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "3b2d4b7ea4618d69eebe5f70112a8c7c740bf3e0eeb95ffbb54c45ace37628fa",
+            "sha256": "37f32346f89f399c626ec73fad80f629aeb5befd3ab731e8632c3bb79401536e",
             "type": "release",
             "version": "1.16.3_HD_U_G3"
         },
@@ -1442,7 +1442,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "83ea6d299a386d086ba694b946efd40bd014a014aefed5a6d2b1a581342f8815",
+            "sha256": "1856f5645048ddbc8c9bc376590ba5f72f489bbacaf34fef434250116dcc731c",
             "type": "release",
             "version": "1.12.2_HD_U_E3"
         },
@@ -2066,7 +2066,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "84e78eef6cb11418b1461513597b3edce834b32058e28d0f67aaf62d6b97d9bd",
+            "sha256": "be6742def10189f5bc8fc46cc48d896b261b9f17174901983b345712b83f6f55",
             "type": "release",
             "version": "1.11.2_HD_U_B9"
         },
@@ -2105,7 +2105,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "dc883001ab0b90dc86ac05a0de670cbaf6e148f420db3cfa599a2117c15ed3c9",
+            "sha256": "3939be36f0b4febf086d186b2c80a54644b5a8c3838efec0a107648f4c3eabea",
             "type": "release",
             "version": "1.11.2_HD_U_B8"
         },
@@ -2118,7 +2118,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "50bc10dd9a3f7b0f9a00fec4147ddc03b79314c9eeb8bd063483e44b9ab14dad",
+            "sha256": "77d83ae8ccc8e12be6c61e0a3ca6db38d847791513dbe7b080b5db4a6c6f74f9",
             "type": "release",
             "version": "1.11_HD_U_B8"
         },

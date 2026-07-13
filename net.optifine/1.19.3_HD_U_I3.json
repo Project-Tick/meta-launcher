@@ -4,6 +4,8 @@
         {
             "downloads": {
                 "artifact": {
+                    "sha256": "3b9284e43a26c263fce4f40aa8742682a9575ead5f87aa355e0633a545e0af97",
+                    "size": 6974179,
                     "url": "https://optifine.net/download?f=OptiFine_1.19.3_HD_U_I3.jar"
                 }
             }

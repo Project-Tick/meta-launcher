@@ -4,6 +4,8 @@
         {
             "downloads": {
                 "artifact": {
+                    "sha256": "db8a1c508ecb3f89ae8f7b69ae25c78cbdb3d31131c4f789ffae50e2047be1d3",
+                    "size": 7423659,
                     "url": "https://optifine.net/download?f=OptiFine_1.21.4_HD_U_J3.jar"
                 }
             }

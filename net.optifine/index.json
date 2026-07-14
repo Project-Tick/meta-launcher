@@ -12,7 +12,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "dce340e28140c80e909599c6df4edd97352c73501b1bd2da3637d0d9eb2c7031",
+            "sha256": "032c32cc0a63214e1184c89427ad2f7ebcd1ade2ccb785f188b58257e895e371",
             "type": "snapshot",
             "version": "preview_OptiFine_26.1.2_HD_U_K1_pre2"
         },
@@ -77,7 +77,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "58c5267e0e89c36d0355217bf94517fd47dbf310002a771a351591b8728da3bd",
+            "sha256": "332dadaa806a2d3a338e4e5493a7a58b30fb82398c8e74de4fe0cf0d6e918e21",
             "type": "snapshot",
             "version": "preview_OptiFine_1.21.10_HD_U_J7_pre10"
         },
@@ -350,7 +350,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "430d9992919239044c5f652ddcf235ed9c3286debb5758514bd30d84fdc767f2",
+            "sha256": "dbb47c00cabc3ffd2432f648d9794bc3b7d962445bfb803ec812bf13f42179e3",
             "type": "snapshot",
             "version": "preview_OptiFine_1.21_HD_U_J1_pre9"
         },

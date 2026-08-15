@@ -4,8 +4,6 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha256": "0a22202f839b091e06a515f6b52d6fcfb0e6860868801fc7d34a6fd85747cd53",
-                    "size": 1801954,
                     "url": "https://optifine.net/download?f=OptiFine_1.8.0_HD_U_H7.jar"
                 }
             }

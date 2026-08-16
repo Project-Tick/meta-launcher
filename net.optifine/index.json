@@ -64,7 +64,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "6ff99ed49c2b8b0be8d668144a6e237722f9a1f054f10ff6a906219c325633eb",
+            "sha256": "212346a1a66a4c3a2b65cf6541ced06784cd0490c081dfcee5256634794bc6be",
             "type": "snapshot",
             "version": "preview_OptiFine_1.21.10_HD_U_J7_pre11"
         },
@@ -1195,7 +1195,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "eef7c3182c6aa28253bee915da1799e8a04e0b41a0dcf4111453b83cb77a57b3",
+            "sha256": "9c772edf3aa0531d6bc9c6f157fe8e24c97d17a6b7c8672c19eb3a00ef74d8f5",
             "type": "release",
             "version": "1.11.2_HD_U_F5"
         },
@@ -1221,7 +1221,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "35c23f376ef0c61977effb58a12f7d969a63295ca9610c8f66310758c3d490db",
+            "sha256": "29b520233ff4f7f435ed01287114e217280d370192a0f82205c5d43151e4d9c9",
             "type": "release",
             "version": "1.12.1_HD_U_F5"
         },
@@ -2027,7 +2027,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "29d905cfaff8cfcf0f98f4a07a35b90c24189308d2bed401c1a5240cf6549f47",
+            "sha256": "2522a16664030478243470c97e38e0aabeb7e998e0b094d0e65539b1fa2f6d9f",
             "type": "release",
             "version": "1.12_HD_U_C2"
         },
@@ -2417,7 +2417,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "a37efb7064d98d8073a197460bc56806462fbf3d2b93bd92cb859d5b1a4dfc27",
+            "sha256": "cd4558c79af74bc5a9ea1ba2b7346f279e2636a68da784ab215209fd55592948",
             "type": "release",
             "version": "1.11_HD_U_B6"
         },
@@ -2781,7 +2781,7 @@
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "ba16b3c73a6e43469d8808091a7e94ff32fee2fa07bfa6ffbbd8025e1d7047a3",
+            "sha256": "6b1e2b1a85c0dcdbf220ab4ccf171f25f269091e2a965a2d7604750667a34e36",
             "type": "release",
             "version": "1.9.0_HD_U_B2"
         },

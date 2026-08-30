@@ -1,0 +1,26 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "796ba91cca32e23704824167506f32eb10a7a33d0821eacf122347bac7faca76",
+                    "size": 2025882,
+                    "url": "https://optifine.net/download?f=OptiFine_1.11_HD_U_B7.jar"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U B7",
+    "order": 10,
+    "releaseTime": "2017-03-14T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.11",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.11_HD_U_B7"
+}

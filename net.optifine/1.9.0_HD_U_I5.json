@@ -1,0 +1,26 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "36b5a8d5836f2c5ac68a2da37a6f12830ae35882d5a84e8828e6a40a43dad1db",
+                    "size": 2650939,
+                    "url": "https://optifine.net/download?f=OptiFine_1.9.0_HD_U_I5.jar"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U I5",
+    "order": 10,
+    "releaseTime": "2021-01-24T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.9.0",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.9.0_HD_U_I5"
+}

@@ -1,0 +1,26 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "a51ad036ddf9f0d8286a3b996e4173542864cb1c58af3cfb1f73101f6b8cd0ba",
+                    "size": 1698186,
+                    "url": "https://optifine.net/download?f=OptiFine_1.9.0_HD_U_B2.jar"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U B2",
+    "order": 10,
+    "releaseTime": "2016-04-27T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.9.0",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.9.0_HD_U_B2"
+}

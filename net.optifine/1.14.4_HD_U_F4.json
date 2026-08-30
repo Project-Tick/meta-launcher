@@ -1,0 +1,26 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "66df1c3b02d62cf7149992b576e34ee0a37170f68613b4d9ab5be08c792154f2",
+                    "size": 5214568,
+                    "url": "https://optifine.net/download?f=OptiFine_1.14.4_HD_U_F4.jar"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U F4",
+    "order": 10,
+    "releaseTime": "2019-10-25T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.14.4",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.14.4_HD_U_F4"
+}

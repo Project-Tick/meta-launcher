@@ -1,0 +1,26 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "043966c34b0e9e8e50587447471e29e2b19249d85d2d522136b09ce8a0cd3903",
+                    "size": 2311528,
+                    "url": "https://optifine.net/download?f=OptiFine_1.12.2_HD_U_C8.jar"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U C8",
+    "order": 10,
+    "releaseTime": "2018-01-10T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.12.2",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.12.2_HD_U_C8"
+}

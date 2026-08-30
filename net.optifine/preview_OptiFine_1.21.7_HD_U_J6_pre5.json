@@ -1,0 +1,26 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "f457fc4772dafc46d23ccbe158167331e6996c0ac51945e40cf77f301c9c0f88",
+                    "size": 7578050,
+                    "url": "https://optifine.net/download?f=preview_OptiFine_1.21.7_HD_U_J6_pre5.jar"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U J6 pre5",
+    "order": 10,
+    "releaseTime": "2025-07-08T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.21.7",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "snapshot",
+    "uid": "net.optifine",
+    "version": "preview_OptiFine_1.21.7_HD_U_J6_pre5"
+}

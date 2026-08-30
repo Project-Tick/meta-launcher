@@ -1,0 +1,26 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "bd13cf247ca4883726b65d47ec0d4e79b08a48b5c2deb7fae825ab7f224acff7",
+                    "size": 6863178,
+                    "url": "https://optifine.net/download?f=OptiFine_1.19.2_HD_U_H9.jar"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U H9",
+    "order": 10,
+    "releaseTime": "2022-08-20T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.19.2",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.19.2_HD_U_H9"
+}

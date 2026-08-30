@@ -1,0 +1,100 @@
+{
+    "formatVersion": 1,
+    "packages": [
+        {
+            "name": "Java Runtimes",
+            "sha256": "1faca163b1528fc812989ca874a32d73fca30cff2b529cf0db79d1288a9e3623",
+            "uid": "com.azul.java"
+        },
+        {
+            "name": "Java Runtimes",
+            "sha256": "ba38674c1a5b2f59d07bef6536d0590d3e2d61976a35a591076b0e90bb49f82b",
+            "uid": "com.ibm.java"
+        },
+        {
+            "name": "LiteLoader",
+            "sha256": "21ed39d05d19449287bb3dbc19fd395d4fa12aefb3f0fe1846e008f28e6e4d95",
+            "uid": "com.mumfrey.liteloader"
+        },
+        {
+            "name": "ModLoaderMP",
+            "sha256": "2c78c6a44f87daec1dcf8f4a5d3b79190f47e89f1b157631696cf614d041a765",
+            "uid": "modloadermp"
+        },
+        {
+            "name": "Java Runtimes",
+            "sha256": "5b9a762f89c031a6166bf7eaee6055036e87dee7c4437128d616ec7ff161254d",
+            "uid": "net.adoptium.java"
+        },
+        {
+            "name": "Fabric Loader",
+            "sha256": "26916f46b53f3007544b51c0bd0c0ff679c0939fdb1fbf5a8fdd243ab5790d95",
+            "uid": "net.fabricmc.fabric-loader"
+        },
+        {
+            "name": "Intermediary Mappings",
+            "sha256": "dc282756a7852e76893dbd6d61c0c5238213280aefd9b3e5139b1b5075253321",
+            "uid": "net.fabricmc.intermediary"
+        },
+        {
+            "name": "Minecraft",
+            "sha256": "ec12210a64ded954cf8dcd87fa1befd08ed43541a18bf0b0d5748c22fd2412bf",
+            "uid": "net.minecraft"
+        },
+        {
+            "name": "Java Runtimes",
+            "sha256": "f4fc9e9beb4efac111f709515061d1edb805bf5fb79701c56d3aee24bb23e4d9",
+            "uid": "net.minecraft.java"
+        },
+        {
+            "name": "Forge",
+            "sha256": "19bfa0ffbbd968d6887a44e461b30c96c25b96ebc1de56f5ca5abd5e4066fe30",
+            "uid": "net.minecraftforge"
+        },
+        {
+            "name": "StationAPI",
+            "sha256": "8eab25293075ab65f77e1740d4506ebb5e33320c433760ee170a3e5bc101e538",
+            "uid": "net.modificationstation.stationloader"
+        },
+        {
+            "name": "NeoForge",
+            "sha256": "a814a10f9ea3997fdf339531ef8132e16aa5e7fc2c90f6bd6a1499a2a6712d4a",
+            "uid": "net.neoforged"
+        },
+        {
+            "name": "OptiFine",
+            "sha256": "8955f2dd40aa0b4d8a10c36c69d2ff02d0cb99602bc417cd5cb5b7ab5702df28",
+            "uid": "net.optifine"
+        },
+        {
+            "name": "LWJGL 2",
+            "sha256": "51e090bc60cf283f5c26bf10edfebb692caa251ac68f684cd192835d6e151c72",
+            "uid": "org.lwjgl"
+        },
+        {
+            "name": "LWJGL 3",
+            "sha256": "adb1fd4a501b06889ca7658d80adfd98097a57c165c2c45b77f000df7e3eeff4",
+            "uid": "org.lwjgl3"
+        },
+        {
+            "name": "Quilt Loader",
+            "sha256": "8c243602d9923356e465ace884079a6a4223bb5de2201855f36465cbac171da9",
+            "uid": "org.quiltmc.quilt-loader"
+        },
+        {
+            "name": "Risugami ModLoader",
+            "sha256": "d0e80353a0afb8125acc8c10f4932ebb32f401cd767c18814eca17d723a82500",
+            "uid": "risugami"
+        },
+        {
+            "name": "Risugami ModLoader",
+            "sha256": "896f62af592151313ae6c14a747a9081de800af5997d403e8cdf58a46b62e0e8",
+            "uid": "risugami.modloader"
+        },
+        {
+            "name": "Station Loader",
+            "sha256": "30e0b1ed0eccb7d5b346ce5a8717b1032b4f1a3a1ececf398e97e7713b028cc2",
+            "uid": "station-loader"
+        }
+    ]
+}

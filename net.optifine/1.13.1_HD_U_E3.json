@@ -1,0 +1,26 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "b57a928c39f4c21d24a9394fe7d383500aed5600b9da7a2e8581922aeb4a157a",
+                    "size": 2628757,
+                    "url": "https://optifine.net/download?f=OptiFine_1.13.1_HD_U_E3.jar"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U E3",
+    "order": 10,
+    "releaseTime": "2018-10-18T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.13.1",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.13.1_HD_U_E3"
+}

@@ -1,0 +1,26 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "6be7b5074d23c887ae82201433bab04f2f65d9d19f337510354a12892b8ff887",
+                    "size": 6473656,
+                    "url": "https://optifine.net/download?f=OptiFine_1.18_HD_U_H3.jar"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U H3",
+    "order": 10,
+    "releaseTime": "2021-12-06T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.18",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.18_HD_U_H3"
+}

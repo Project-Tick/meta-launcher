@@ -1,0 +1,26 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "ec21dd70df5c28044d5d184cae55d41b344a109f914723c3b70fd695e103ce90",
+                    "size": 2588380,
+                    "url": "https://optifine.net/download?f=OptiFine_1.11.2_HD_U_F5.jar"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U F5",
+    "order": 10,
+    "releaseTime": "2019-12-04T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.11.2",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.11.2_HD_U_F5"
+}

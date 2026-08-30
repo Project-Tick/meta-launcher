@@ -1,0 +1,26 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "1b3d2639b14a6c08fa75007567118b50d54e52c16ee760884e82851b4480993e",
+                    "size": 6979831,
+                    "url": "https://optifine.net/download?f=OptiFine_1.19.4_HD_U_I3.jar"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U I3",
+    "order": 10,
+    "releaseTime": "2023-03-24T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.19.4",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.19.4_HD_U_I3"
+}

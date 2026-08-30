@@ -1,0 +1,26 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "3c76bc90ed44bce567cee7c20eb2c4361926f23a86e5367d596f6e624d0b494f",
+                    "size": 6046996,
+                    "url": "https://optifine.net/download?f=OptiFine_1.16.5_HD_U_G8.jar"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U G8",
+    "order": 10,
+    "releaseTime": "2021-05-15T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.16.5",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.16.5_HD_U_G8"
+}

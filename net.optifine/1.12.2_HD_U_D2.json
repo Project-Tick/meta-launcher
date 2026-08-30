@@ -1,0 +1,26 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "df8c66cf2698130b0386b39a2700a947c9b3645e04dd7aabea290909601983ae",
+                    "size": 2380572,
+                    "url": "https://optifine.net/download?f=OptiFine_1.12.2_HD_U_D2.jar"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U D2",
+    "order": 10,
+    "releaseTime": "2018-04-30T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.12.2",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.12.2_HD_U_D2"
+}

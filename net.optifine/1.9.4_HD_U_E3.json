@@ -1,0 +1,26 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "58d7297cca20fce29faf63e13445910bffb3e6c523de137f32585af53107dfbc",
+                    "size": 2087504,
+                    "url": "https://optifine.net/download?f=OptiFine_1.9.4_HD_U_E3.jar"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U E3",
+    "order": 10,
+    "releaseTime": "2017-06-29T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.9.4",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.9.4_HD_U_E3"
+}

@@ -1,0 +1,26 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "04afd60dfef413e4cd7d1b4248e7aca78126cae3bcb831353745030487371f83",
+                    "size": 5748075,
+                    "url": "https://optifine.net/download?f=OptiFine_1.15.2_HD_U_G6.jar"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U G6",
+    "order": 10,
+    "releaseTime": "2021-01-24T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.15.2",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.15.2_HD_U_G6"
+}

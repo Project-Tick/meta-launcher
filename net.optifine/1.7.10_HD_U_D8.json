@@ -1,0 +1,26 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "cc5a3c4d7b169cc0b0899f8304360b38e69d34311546e1b36631fb2c6a44f742",
+                    "size": 1636995,
+                    "url": "https://optifine.net/download?f=OptiFine_1.7.10_HD_U_D8.jar"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U D8",
+    "order": 10,
+    "releaseTime": "2017-05-04T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.7.10",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "net.optifine",
+    "version": "1.7.10_HD_U_D8"
+}

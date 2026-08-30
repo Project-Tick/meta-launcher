@@ -6,13 +6,13 @@
         {
             "recommended": false,
             "releaseTime": "2026-03-23T19:32:48+00:00",
-            "sha256": "839644d80517e895ccf8e3c613d3df7aa609dcb4e7b7b1e8d5293e6ae06bc11d",
+            "sha256": "ae8586588f5996325500d1dc8711f2aeb132cef83fc4d40a84c659c2511d2222",
             "version": "java26"
         },
         {
             "recommended": false,
             "releaseTime": "2025-09-17T11:42:50+00:00",
-            "sha256": "aed7d2d1a18a69d6c11bb005f48a0fa4dcdb72cf9e5c21ee08d3921b89db69c5",
+            "sha256": "1f4b2840fe11490e57563fc1c4718e365592b8d5d9a1baf9eae6284dc1f5d07a",
             "version": "java25"
         },
         {
@@ -36,7 +36,7 @@
         {
             "recommended": false,
             "releaseTime": "2023-10-10T13:55:52+00:00",
-            "sha256": "68ae4d25068d4bb004f969888e79b8e573a3e29e2c103d4a2b581ae05abc97dd",
+            "sha256": "cefa0e34a42b9723d86453108f954fda751c94f24e2efb03c6402fb805e9f4fd",
             "version": "java21"
         },
         {
@@ -60,19 +60,19 @@
         {
             "recommended": false,
             "releaseTime": "2021-10-27T13:36:51+00:00",
-            "sha256": "06754bd7c446803c2f2e179510b109be3c93fa0c3c223f81cef774c0c3f8966c",
+            "sha256": "005f785ef38039455eeb07a68c862507fbd67ab3dea4707a2028b76535faacb0",
             "version": "java17"
         },
         {
             "recommended": false,
             "releaseTime": "2021-08-01T13:49:49+00:00",
-            "sha256": "18bd2e4940388a9db98a25af650959114db9f15f7937ab82401a2e2e02a02a93",
+            "sha256": "5b459d3e691c63d0f0791406dc0b287a0c5f27101249c8663ea36448c29a095a",
             "version": "java11"
         },
         {
             "recommended": false,
             "releaseTime": "2021-07-29T19:22:38+00:00",
-            "sha256": "b1ccb264a4a13c6e2facc66858c02ddc7e1dc50493eef598cf191092015d7f29",
+            "sha256": "5fb46c19d07325403d83135ff124ccc187a5cbbde84247807b59e52f4cbb6953",
             "version": "java8"
         }
     ]

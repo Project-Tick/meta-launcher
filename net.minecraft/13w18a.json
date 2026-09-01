@@ -1,8 +1,6 @@
 {
     "+traits": [
-        "legacyServices",
-        "legacyLaunch",
-        "texturepacks"
+        "legacyServices"
     ],
     "assetIndex": {
         "id": "pre-1.6",

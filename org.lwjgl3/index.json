@@ -24,7 +24,7 @@
             ],
             "recommended": false,
             "releaseTime": "2026-08-04T11:49:07+00:00",
-            "sha256": "ce1070fc14cd8181f5cef83b4362d45b1a8dc837cf04b1d1d98ba684213d0de2",
+            "sha256": "1161943a8466788f875fbb33302cb5c0d5c9d3292acdf6c659af8d0d13fb938e",
             "type": "release",
             "version": "3.4.2",
             "volatile": true
@@ -37,7 +37,7 @@
             ],
             "recommended": false,
             "releaseTime": "2026-07-16T13:59:30+00:00",
-            "sha256": "864ac6c11bf5442e83f8e25d6741df2b077512a8ad837c7f55dee53fe4f3d0dd",
+            "sha256": "c8da4f99fe921bb213adba460fd4c5fbc738400030b771e480e9fc8bd33d2bf0",
             "type": "release",
             "version": "3.4.1",
             "volatile": true

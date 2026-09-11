@@ -18,7 +18,7 @@
         },
         {
             "name": "ModLoaderMP",
-            "sha256": "2c78c6a44f87daec1dcf8f4a5d3b79190f47e89f1b157631696cf614d041a765",
+            "sha256": "5a7a0ab88dc159a85ca91738056ce5276a28131d3fa6d19dbd1f86206002767e",
             "uid": "modloadermp"
         },
         {
@@ -33,12 +33,12 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "3fbc5d8a5b211856d5cae664a86744fbce65ca15e7562798b989e77e8e6873af",
+            "sha256": "e94c7f431c18b5ea24f936ccdcd5215881bf40e70000a70f2b4ec96b624144d9",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "6f7df46eb12761c2c1f8d1b1427964feaa18fd84488b0f0d808bc0affd2138f5",
+            "sha256": "e4bbd12b3af98ec177b8fe1e2d226e8514a109cf7bc7c0d9a1934240ee6218bf",
             "uid": "net.minecraft"
         },
         {
@@ -63,17 +63,17 @@
         },
         {
             "name": "OptiFine",
-            "sha256": "8955f2dd40aa0b4d8a10c36c69d2ff02d0cb99602bc417cd5cb5b7ab5702df28",
+            "sha256": "caa261f3c6a3af1ecb3e92b2921b48a19fb8adab9eb9f5b6f3998e4480a2915f",
             "uid": "net.optifine"
         },
         {
             "name": "LWJGL 2",
-            "sha256": "51e090bc60cf283f5c26bf10edfebb692caa251ac68f684cd192835d6e151c72",
+            "sha256": "4008fcb5026d571e6cc283924e63525b9ae06b30d6a18cd79a8613c7579742c0",
             "uid": "org.lwjgl"
         },
         {
             "name": "LWJGL 3",
-            "sha256": "66815e5411ae0c65944d60efdec23a49fb9e86a57ec7cfebe8056338d079c023",
+            "sha256": "f683adc39364079d716ec85c2c8403405d051c7656015cd9cb672d67ab38fe10",
             "uid": "org.lwjgl3"
         },
         {
@@ -88,7 +88,7 @@
         },
         {
             "name": "Risugami ModLoader",
-            "sha256": "896f62af592151313ae6c14a747a9081de800af5997d403e8cdf58a46b62e0e8",
+            "sha256": "fb435d5d73aad3af91104fb77b7047557bc6521b6cbe40b166a0c7a33c060663",
             "uid": "risugami.modloader"
         },
         {

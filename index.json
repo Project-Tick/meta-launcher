@@ -3,7 +3,7 @@
     "packages": [
         {
             "name": "Java Runtimes",
-            "sha256": "1faca163b1528fc812989ca874a32d73fca30cff2b529cf0db79d1288a9e3623",
+            "sha256": "fa74c0bb2cbbaebe935a3fb255a332ec4afd5918d6327212b23a2b3cd382fa84",
             "uid": "com.azul.java"
         },
         {
@@ -33,12 +33,12 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "5870a30227f7f0299df865689d6242b615a1394986253dc7e397e3038229bb1c",
+            "sha256": "7cbab8af461068d165665cb63d38a5f2d7a94ed1e5c965ee2ede4106355eda20",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "686fa9bf095c6731f7b493cac91d1309f08d0b17001a14fb2067ffffe864b0c9",
+            "sha256": "26a0b97e7666313e0deb0462695dc7cceccd6a2b43642e2311aba921580d14dc",
             "uid": "net.minecraft"
         },
         {
@@ -73,7 +73,7 @@
         },
         {
             "name": "LWJGL 3",
-            "sha256": "f683adc39364079d716ec85c2c8403405d051c7656015cd9cb672d67ab38fe10",
+            "sha256": "9c4684dfb4611cafe7b05690fb54a4dd11ffa52f7c61ed9da5ab2ee13327bef6",
             "uid": "org.lwjgl3"
         },
         {

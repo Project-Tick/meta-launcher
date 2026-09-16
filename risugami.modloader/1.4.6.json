@@ -1,0 +1,15 @@
+{
+    "formatVersion": 1,
+    "name": "ModLoader 1.4.6",
+    "order": 10,
+    "releaseTime": "1970-01-01T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "1.4.6",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "risugami.modloader",
+    "version": "1.4.6"
+}

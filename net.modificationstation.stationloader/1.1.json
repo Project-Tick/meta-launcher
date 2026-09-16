@@ -1,0 +1,25 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "size": 197537,
+                    "url": "https://github.com/ModificationStation/StationAPI/releases/download/1.1/StationLoader-1.1-dev.jar"
+                }
+            }
+        }
+    ],
+    "name": "StationAPI 1.1",
+    "order": 10,
+    "releaseTime": "2020-09-06T16:04:11+00:00",
+    "requires": [
+        {
+            "equals": "b1.7.3",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "snapshot",
+    "uid": "net.modificationstation.stationloader",
+    "version": "1.1"
+}

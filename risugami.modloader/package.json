@@ -1,0 +1,11 @@
+{
+    "description": "Risugami's ModLoader for classic/legacy Minecraft",
+    "formatVersion": 1,
+    "name": "Risugami ModLoader",
+    "recommended": [
+        "1.6.2",
+        "1.6.1",
+        "1.5.2"
+    ],
+    "uid": "risugami.modloader"
+}

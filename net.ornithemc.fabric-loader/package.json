@@ -1,0 +1,13 @@
+{
+    "authors": [
+        "OrnitheMC"
+    ],
+    "description": "Ornithe is a project bringing modern modding tooling to every version of Minecraft.",
+    "formatVersion": 1,
+    "name": "Ornithe Fabric Loader",
+    "projectUrl": "https://ornithemc.net",
+    "recommended": [
+        "0.19.5"
+    ],
+    "uid": "net.ornithemc.fabric-loader"
+}

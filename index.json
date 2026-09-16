@@ -2,6 +2,11 @@
     "formatVersion": 1,
     "packages": [
         {
+            "name": "Babric",
+            "sha256": "eea216c130e9164c20133b4a05406409e0ef9a60c2ef6b4a385161c9eb892b30",
+            "uid": "babric"
+        },
+        {
             "name": "Java Runtimes",
             "sha256": "fa74c0bb2cbbaebe935a3fb255a332ec4afd5918d6327212b23a2b3cd382fa84",
             "uid": "com.azul.java"
@@ -33,22 +38,22 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "7cbab8af461068d165665cb63d38a5f2d7a94ed1e5c965ee2ede4106355eda20",
+            "sha256": "d39d2114d2cdf90a67fef14c2000cffa5f42c0860baed5e21f281ae958aed77b",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "26a0b97e7666313e0deb0462695dc7cceccd6a2b43642e2311aba921580d14dc",
+            "sha256": "7215dfe11bc09522baab0c12cbcaadd31686e53b0aedb8f354ed3bd3cffebf0c",
             "uid": "net.minecraft"
         },
         {
             "name": "Java Runtimes",
-            "sha256": "64ab236bf5cd74692ccbe751053f57efd3d4fc494d8b71deff5b0cd3b9a048ef",
+            "sha256": "811a87c3f3dae5dd02d439cce23b4c42c966265ed6baf6a36cc30a2e1ecba670",
             "uid": "net.minecraft.java"
         },
         {
             "name": "Forge",
-            "sha256": "19bfa0ffbbd968d6887a44e461b30c96c25b96ebc1de56f5ca5abd5e4066fe30",
+            "sha256": "74f3a87582be98b7ca599f3f0617a056f380e5e8339adf99732ded635216113b",
             "uid": "net.minecraftforge"
         },
         {
@@ -58,13 +63,23 @@
         },
         {
             "name": "NeoForge",
-            "sha256": "4be6adbe6612ef76e92baa27abf7d8f5db41f5cf4282e00c08168b4c42439b22",
+            "sha256": "49183a9d185b427054baa255505769f7714a6b596f26fd9eaed6c5eebda6f34b",
             "uid": "net.neoforged"
         },
         {
             "name": "OptiFine",
             "sha256": "caa261f3c6a3af1ecb3e92b2921b48a19fb8adab9eb9f5b6f3998e4480a2915f",
             "uid": "net.optifine"
+        },
+        {
+            "name": "Calamus Intermediary Mappings",
+            "sha256": "a9adca76c9938b85a718a112c4c2ba8a0fae20abb849bf42c3dca011bbfb0fa7",
+            "uid": "net.ornithemc.calamus-intermediary"
+        },
+        {
+            "name": "Ornithe Fabric Loader",
+            "sha256": "0100278ee7f848eb161c9c42f1149d6cfc51348e24de1fa766aca6a5939dd819",
+            "uid": "net.ornithemc.fabric-loader"
         },
         {
             "name": "LWJGL 2",

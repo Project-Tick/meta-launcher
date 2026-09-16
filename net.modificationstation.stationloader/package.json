@@ -1,0 +1,8 @@
+{
+    "description": "StationAPI mod loader for Minecraft b1.7.3",
+    "formatVersion": 1,
+    "name": "StationAPI",
+    "projectUrl": "https://github.com/modificationstation/StationAPI",
+    "recommended": [],
+    "uid": "net.modificationstation.stationloader"
+}

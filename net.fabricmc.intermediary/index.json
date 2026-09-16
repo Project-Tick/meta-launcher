@@ -2076,6 +2076,20 @@
             "volatile": true
         },
         {
+            "recommended": false,
+            "releaseTime": "2024-10-18T18:57:04+00:00",
+            "requires": [
+                {
+                    "equals": "b1.7.3",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "98c71a0a01fd6a51a28232ec8f1ac340ca3c7b8c8a882f29cc93c089315a45f6",
+            "type": "release",
+            "version": "b1.7.3",
+            "volatile": true
+        },
+        {
             "recommended": true,
             "releaseTime": "2024-10-17T14:13:55+00:00",
             "requires": [

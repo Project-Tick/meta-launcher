@@ -1,0 +1,11 @@
+{
+    "description": "ModLoaderMP - multiplayer companion to Risugami's ModLoader",
+    "formatVersion": 1,
+    "name": "ModLoaderMP",
+    "recommended": [
+        "1.2.5",
+        "1.2.4",
+        "1.2.3"
+    ],
+    "uid": "modloadermp"
+}

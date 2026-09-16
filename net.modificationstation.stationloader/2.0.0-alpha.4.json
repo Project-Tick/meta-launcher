@@ -1,0 +1,25 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "size": 212126,
+                    "url": "https://github.com/ModificationStation/StationAPI/releases/download/2.0.0-alpha.4/StationAPI-2.0.0-alpha.4-sources.jar"
+                }
+            }
+        }
+    ],
+    "name": "StationAPI 2.0.0-alpha.4",
+    "order": 10,
+    "releaseTime": "2025-02-16T18:20:05+00:00",
+    "requires": [
+        {
+            "equals": "b1.7.3",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "snapshot",
+    "uid": "net.modificationstation.stationloader",
+    "version": "2.0.0-alpha.4"
+}

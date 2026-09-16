@@ -1,0 +1,24 @@
+{
+    "+jvmArgs": [
+        "-DFabricMcEmu=net.minecraft.client.main.Main"
+    ],
+    "formatVersion": 1,
+    "libraries": [
+        {
+            "name": "babric:log4j-config:1.0.0",
+            "url": "https://maven.glass-launcher.net/babric/"
+        }
+    ],
+    "name": "Babric",
+    "order": 10,
+    "releaseTime": "2024-10-18T18:57:04+00:00",
+    "requires": [
+        {
+            "equals": "b1.7.3",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "babric",
+    "version": "b1.7.3"
+}

@@ -1,0 +1,13 @@
+{
+    "authors": [
+        "Babric Contributors"
+    ],
+    "description": "Babric is a Fabric-based mod loader for Minecraft Beta 1.7.3.",
+    "formatVersion": 1,
+    "name": "Babric",
+    "projectUrl": "https://github.com/babric",
+    "recommended": [
+        "b1.7.3"
+    ],
+    "uid": "babric"
+}

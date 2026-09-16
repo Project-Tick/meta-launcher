@@ -442,6 +442,16 @@
         }
     ],
     "mainClass": "io.github.zekerzhayard.forgewrapper.installer.Main",
+    "mainJar": {
+        "downloads": {
+            "artifact": {
+                "sha1": "6325aed622c501c30ca0a377a7c1ea2ebfb68a1a",
+                "size": 29732,
+                "url": "https://files.projecttick.org/maven/io/github/zekerzhayard/ForgeWrapper/projt-2026-04-04/ForgeWrapper-projt-2026-04-04.jar"
+            }
+        },
+        "name": "io.github.zekerzhayard:ForgeWrapper:projt-2026-04-04"
+    },
     "mavenFiles": [
         {
             "downloads": {
@@ -628,6 +638,16 @@
                 }
             },
             "name": "trove:trove:1.0.2"
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "4e618f09a0c649dde3fdf829df443ce0b8831e65",
+                    "size": 38113927,
+                    "url": "https://piston-data.mojang.com/v1/objects/4e618f09a0c649dde3fdf829df443ce0b8831e65/client.jar"
+                }
+            },
+            "name": "com.mojang:minecraft:26.1.2:client"
         }
     ],
     "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type} --launchTarget forge_client --fml.forgeGroup net.minecraftforge --fml.forgeVersion 64.0.0 --fml.mcVersion 26.1.2",

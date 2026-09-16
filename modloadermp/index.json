@@ -1,0 +1,143 @@
+{
+    "formatVersion": 1,
+    "name": "ModLoaderMP",
+    "uid": "modloadermp",
+    "versions": [
+        {
+            "recommended": false,
+            "releaseTime": "1970-01-01T00:00:00+00:00",
+            "requires": [
+                {
+                    "equals": "b1.7.3",
+                    "uid": "net.minecraft"
+                },
+                {
+                    "equals": "b1.7.3",
+                    "uid": "risugami.modloader"
+                }
+            ],
+            "sha256": "951e6c26e1572ff127ebbf5026c98e58800bec102a60bfcbf6a50fcb9cec1295",
+            "type": "release",
+            "version": "b1.7.3"
+        },
+        {
+            "recommended": true,
+            "releaseTime": "1970-01-01T00:00:00+00:00",
+            "requires": [
+                {
+                    "equals": "1.2.4",
+                    "uid": "net.minecraft"
+                },
+                {
+                    "equals": "1.2.4",
+                    "uid": "risugami.modloader"
+                }
+            ],
+            "sha256": "64278c078256c10bae32ca82d5e0cc55c9ab0440d29c797ee8ee9b585b04e231",
+            "type": "release",
+            "version": "1.2.4"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "1970-01-01T00:00:00+00:00",
+            "requires": [
+                {
+                    "equals": "b1.8.1",
+                    "uid": "net.minecraft"
+                },
+                {
+                    "equals": "b1.8.1",
+                    "uid": "risugami.modloader"
+                }
+            ],
+            "sha256": "4a58e4441d03dbb98ea1e67d9472eaf0c15bee173a310f1d567dc4e305cc5602",
+            "type": "release",
+            "version": "b1.8.1"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "1970-01-01T00:00:00+00:00",
+            "requires": [
+                {
+                    "equals": "b1.6.6",
+                    "uid": "net.minecraft"
+                },
+                {
+                    "equals": "b1.6.6",
+                    "uid": "risugami.modloader"
+                }
+            ],
+            "sha256": "7f6028d538d9c4e6272f08b003b993a06e1263fb974b0bf708b6c7261f05888e",
+            "type": "release",
+            "version": "b1.6.6"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "1970-01-01T00:00:00+00:00",
+            "requires": [
+                {
+                    "equals": "1.1",
+                    "uid": "net.minecraft"
+                },
+                {
+                    "equals": "1.1",
+                    "uid": "risugami.modloader"
+                }
+            ],
+            "sha256": "f8972189bc48b5645bb29bb12ef642d158b9e4dcaa39afdd54ff95b1c7065614",
+            "type": "release",
+            "version": "1.1"
+        },
+        {
+            "recommended": true,
+            "releaseTime": "1970-01-01T00:00:00+00:00",
+            "requires": [
+                {
+                    "equals": "1.2.5",
+                    "uid": "net.minecraft"
+                },
+                {
+                    "equals": "1.2.5",
+                    "uid": "risugami.modloader"
+                }
+            ],
+            "sha256": "1adc3bf694dbdf4304717eac42d7f14cfddff585b4f0d9a97075bd9a342e2063",
+            "type": "release",
+            "version": "1.2.5"
+        },
+        {
+            "recommended": true,
+            "releaseTime": "1970-01-01T00:00:00+00:00",
+            "requires": [
+                {
+                    "equals": "1.2.3",
+                    "uid": "net.minecraft"
+                },
+                {
+                    "equals": "1.2.3",
+                    "uid": "risugami.modloader"
+                }
+            ],
+            "sha256": "c060999583f239bd168b7470ec1732e102d462bcc1821fa4ff22a3c0e64623aa",
+            "type": "release",
+            "version": "1.2.3"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "1970-01-01T00:00:00+00:00",
+            "requires": [
+                {
+                    "equals": "1.0",
+                    "uid": "net.minecraft"
+                },
+                {
+                    "equals": "1.0",
+                    "uid": "risugami.modloader"
+                }
+            ],
+            "sha256": "7632c1aa981c1e19a715f0e4ce9980212e191cc72fd734970d2b95c510f886d9",
+            "type": "release",
+            "version": "1.0"
+        }
+    ]
+}

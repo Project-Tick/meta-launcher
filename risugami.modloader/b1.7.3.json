@@ -1,0 +1,15 @@
+{
+    "formatVersion": 1,
+    "name": "ModLoader b1.7.3",
+    "order": 10,
+    "releaseTime": "1970-01-01T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "b1.7.3",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "risugami.modloader",
+    "version": "b1.7.3"
+}

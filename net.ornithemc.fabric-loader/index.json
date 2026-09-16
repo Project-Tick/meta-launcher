@@ -1,0 +1,175 @@
+{
+    "formatVersion": 1,
+    "name": "Ornithe Fabric Loader",
+    "uid": "net.ornithemc.fabric-loader",
+    "versions": [
+        {
+            "recommended": true,
+            "releaseTime": "2026-08-28T11:01:04+00:00",
+            "requires": [
+                {
+                    "uid": "net.ornithemc.calamus-intermediary"
+                }
+            ],
+            "sha256": "38cf786e92f1797d67ac3fa5f7e0b642bf15024f9b4ab8d28f39e42ad6995f41",
+            "type": "release",
+            "version": "0.19.5"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-08-26T17:49:36+00:00",
+            "requires": [
+                {
+                    "uid": "net.ornithemc.calamus-intermediary"
+                }
+            ],
+            "sha256": "72b646165b109bdb88f9fe4ca53bd436280338ceecf0c8460dca394f25ebe877",
+            "type": "release",
+            "version": "0.19.4"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-06-01T17:23:10+00:00",
+            "requires": [
+                {
+                    "uid": "net.ornithemc.calamus-intermediary"
+                }
+            ],
+            "sha256": "b56376731b139ec13368015d2ced2dad4e66787f3717c234870c4dbadc22155b",
+            "type": "release",
+            "version": "0.19.3"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-04-15T18:24:37+00:00",
+            "requires": [
+                {
+                    "uid": "net.ornithemc.calamus-intermediary"
+                }
+            ],
+            "sha256": "12ada36c472cf2e2b36aa0258728fac9c242a01cf9cb46809138e50ec0b21b86",
+            "type": "release",
+            "version": "0.19.2"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-04-09T13:44:55+00:00",
+            "requires": [
+                {
+                    "uid": "net.ornithemc.calamus-intermediary"
+                }
+            ],
+            "sha256": "fe9f379d28c18e2e6db3df600660493e1236105bb0d1fa7959c7b35699d881f4",
+            "type": "release",
+            "version": "0.19.1"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-04-07T18:07:15+00:00",
+            "requires": [
+                {
+                    "uid": "net.ornithemc.calamus-intermediary"
+                }
+            ],
+            "sha256": "41af290198af7e8d0915a2f547a7c9b4df3db576c909e4031527ca1bb676a190",
+            "type": "release",
+            "version": "0.19.0"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-04-01T15:40:48+00:00",
+            "requires": [
+                {
+                    "uid": "net.ornithemc.calamus-intermediary"
+                }
+            ],
+            "sha256": "7154d868009738662772f0d5a74f1dc320f6866ca0c00333c4fc1c84d64c71b0",
+            "type": "release",
+            "version": "0.18.6"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-03-25T12:18:30+00:00",
+            "requires": [
+                {
+                    "uid": "net.ornithemc.calamus-intermediary"
+                }
+            ],
+            "sha256": "c2b5f65d1cee4d0d1fff2b775b82907bfda57694e410404e6d7a656a0401c90b",
+            "type": "release",
+            "version": "0.18.5"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2025-12-24T19:25:30+00:00",
+            "requires": [
+                {
+                    "uid": "net.ornithemc.calamus-intermediary"
+                }
+            ],
+            "sha256": "31f82c56832d6e7d30eba088413011983422e903949dee234380dc24671da1bd",
+            "type": "release",
+            "version": "0.18.4"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2025-12-16T17:05:29+00:00",
+            "requires": [
+                {
+                    "uid": "net.ornithemc.calamus-intermediary"
+                }
+            ],
+            "sha256": "068f0d1d103de7a21a368270372993a9b2c72c77da0e8501b2028e5716d28336",
+            "type": "release",
+            "version": "0.18.3"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2025-12-09T18:10:38+00:00",
+            "requires": [
+                {
+                    "uid": "net.ornithemc.calamus-intermediary"
+                }
+            ],
+            "sha256": "23c64c9a83d0a09e37cac656b2c3703868e6089d65c295908d0e0b9019ad0bbb",
+            "type": "release",
+            "version": "0.18.2"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2025-11-20T15:00:53+00:00",
+            "requires": [
+                {
+                    "uid": "net.ornithemc.calamus-intermediary"
+                }
+            ],
+            "sha256": "4af64ade3fc23d28da5958c90c1a34c1702462e313359dd2b4828d92bebca3fb",
+            "type": "release",
+            "version": "0.18.1"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2025-11-08T22:18:50+00:00",
+            "requires": [
+                {
+                    "uid": "net.ornithemc.calamus-intermediary"
+                }
+            ],
+            "sha256": "f309a2fe7086cf3aa8451a160b8bfecec537d686ebe7057ed159e1d147e269ec",
+            "type": "release",
+            "version": "0.18.0"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2025-10-09T16:09:34+00:00",
+            "requires": [
+                {
+                    "uid": "net.ornithemc.calamus-intermediary"
+                }
+            ],
+            "sha256": "1f26fc53398491e6f3102624ddac47e7402e3d82fcaa48b539f34316a2dab813",
+            "type": "release",
+            "version": "0.17.3"
+        }
+    ]
+}

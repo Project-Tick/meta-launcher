@@ -63,12 +63,12 @@
         },
         {
             "name": "NeoForge",
-            "sha256": "09fda504d695ee535a71cf31fcbeadc6c260144c72c38f523b5e2c3c3c8d0916",
+            "sha256": "d2ea1400cd932dae41acfb0dacf6478541e6742adc1eb54957061f9da19e956a",
             "uid": "net.neoforged"
         },
         {
             "name": "OptiFine",
-            "sha256": "caa261f3c6a3af1ecb3e92b2921b48a19fb8adab9eb9f5b6f3998e4480a2915f",
+            "sha256": "ab745ede056b740aa1d3a39f25af77073430ab273776ce6bf1408650e86a03d1",
             "uid": "net.optifine"
         },
         {

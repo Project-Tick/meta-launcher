@@ -33,7 +33,7 @@
         },
         {
             "name": "Fabric Loader",
-            "sha256": "f95a4ec834b00cd63ec6874364957ee2ed30d3f11fd0b742fb0df147f525254c",
+            "sha256": "3c9673488bb0d1a0d141e54d44d0be492c53e3d90b0e77285141aa43a569e36f",
             "uid": "net.fabricmc.fabric-loader"
         },
         {
@@ -68,7 +68,7 @@
         },
         {
             "name": "OptiFine",
-            "sha256": "512281892d9e53ea2613800bbf3591e4e15dd8f0c261123c0c5c0e991608bf3b",
+            "sha256": "b0581a2db7dc1f3b941af037333e50d2993af5bf69b2653025eca0659c0c6b02",
             "uid": "net.optifine"
         },
         {
@@ -78,7 +78,7 @@
         },
         {
             "name": "Ornithe Fabric Loader",
-            "sha256": "0100278ee7f848eb161c9c42f1149d6cfc51348e24de1fa766aca6a5939dd819",
+            "sha256": "e1d45e93478a47aa87e2383f84e3beba87fe3b9f04fa2499e93f83196d999f79",
             "uid": "net.ornithemc.fabric-loader"
         },
         {

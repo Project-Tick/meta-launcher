@@ -1,0 +1,26 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha256": "2ad930a5997dc84645a869fee30b019c63cb0b5a398ed4aae4c4c3b8e5b63f1e",
+                    "size": 7846021,
+                    "url": "https://optifine.net/download?f=preview_OptiFine_26.2_HD_U_K2_pre2.jar"
+                }
+            }
+        }
+    ],
+    "name": "OptiFine HD U K2 pre2",
+    "order": 10,
+    "releaseTime": "2026-10-15T00:00:00+00:00",
+    "requires": [
+        {
+            "equals": "26.2",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "snapshot",
+    "uid": "net.optifine",
+    "version": "preview_OptiFine_26.2_HD_U_K2_pre2"
+}

@@ -5,6 +5,18 @@
     "versions": [
         {
             "recommended": true,
+            "releaseTime": "2026-10-19T19:02:12+00:00",
+            "requires": [
+                {
+                    "uid": "net.ornithemc.calamus-intermediary"
+                }
+            ],
+            "sha256": "513b45e63b74f3d2d5a739821f5e6f10e2eed376b2a044a870e2561ff7f26fb2",
+            "type": "release",
+            "version": "0.20.1"
+        },
+        {
+            "recommended": false,
             "releaseTime": "2026-10-15T10:23:56+00:00",
             "requires": [
                 {

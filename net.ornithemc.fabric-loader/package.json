@@ -7,7 +7,7 @@
     "name": "Ornithe Fabric Loader",
     "projectUrl": "https://ornithemc.net",
     "recommended": [
-        "0.20.0"
+        "0.20.1"
     ],
     "uid": "net.ornithemc.fabric-loader"
 }

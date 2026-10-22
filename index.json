@@ -28,7 +28,7 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "bd9c0118fbde41e76c609ff945e84a85898910e50426102061595b53f58f38cc",
+            "sha256": "0f54ed58973843b2bb1f189c5939653ca227fdc55ff7cf79aba0d1d032b6a69f",
             "uid": "net.adoptium.java"
         },
         {
@@ -53,7 +53,7 @@
         },
         {
             "name": "Forge",
-            "sha256": "514d45bcaa046d5f531ffb8497f3d6bfdbc4edc50fdb1505fb1bdfc358d06b87",
+            "sha256": "cc35f3d68bd0254b1275236e668c0eff81e9bad99afef9f57719ab270ecf8f57",
             "uid": "net.minecraftforge"
         },
         {
@@ -68,12 +68,12 @@
         },
         {
             "name": "OptiFine",
-            "sha256": "7fa2fd82a2e8229f4c5830cc5285f93e59c68b9cc8d6a3a5c514ea93515d2a98",
+            "sha256": "be453740a5f78fd8d68f25a615383eab6183f08dff81499374366cf9b0653e05",
             "uid": "net.optifine"
         },
         {
             "name": "Calamus Intermediary Mappings",
-            "sha256": "ac4d5026c20461a63392b4de0da3af0bc6b0e343ca51363ca94f28f7fbc44dd7",
+            "sha256": "aec3a0b49e7336220df50333f5d742feff3a4247e87345ea33df2f8cc10ef9f5",
             "uid": "net.ornithemc.calamus-intermediary"
         },
         {

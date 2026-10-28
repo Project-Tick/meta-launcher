@@ -23,12 +23,12 @@
         },
         {
             "name": "ModLoaderMP",
-            "sha256": "d1ce44bf8c800b5019716ec5c0f0c3296563cfbd35e3a868fd5db96d1e62ed67",
+            "sha256": "13398649576dde45a08afd281b3a85bf6165e578824d8932acd99e002303a603",
             "uid": "modloadermp"
         },
         {
             "name": "Java Runtimes",
-            "sha256": "1b18d6c2396e27f64dce2e34cb3c01c4ee9a34788751b2ef86d87f70665f5743",
+            "sha256": "cec7fce42157750a3cfa5b2c813bb3fc0ea5fbd1920546da0662858bbbf29d88",
             "uid": "net.adoptium.java"
         },
         {
@@ -38,12 +38,12 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "ee7a654501c71b5906891a87d715f35e9ab91b85872f8e56c28ae208dd7c82b2",
+            "sha256": "9c6de0ee4f61c406f4f5db491264e8d7c6efde3e52150c02dc66d4c1a7edffcb",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "2060656b6eec275560c975e57172a77b78273ce4a4785dc52eb6bf27a8043124",
+            "sha256": "fbd80557735065b73a58366d48bedf23dba8f7e29da0df675579a1c4d8922639",
             "uid": "net.minecraft"
         },
         {
@@ -68,7 +68,7 @@
         },
         {
             "name": "OptiFine",
-            "sha256": "629008aaf4e4f7e653e7d54ce7698bcba7a1e4b9c200b9f95678aa6b58324aba",
+            "sha256": "1c698bda7e6a4ef9be0ddeb6940cdad377eff72018326adcad8fa248463a57b8",
             "uid": "net.optifine"
         },
         {
@@ -83,12 +83,12 @@
         },
         {
             "name": "LWJGL 2",
-            "sha256": "a1b58b8dd92e0003f904336bfaa115295f7567e71fca4247c91f8c529fc9af02",
+            "sha256": "92432e40116ff7b2bd3df5483dfe95cdeffc40d127ec3ca4360717e19166891e",
             "uid": "org.lwjgl"
         },
         {
             "name": "LWJGL 3",
-            "sha256": "3b53663ca8c23308f47bce539e12b9342306998382447258b1c53e13098dd70a",
+            "sha256": "6d9ec391d84d7f7647260f0b9190edb148d13054a1aa0724a3508023b34d072a",
             "uid": "org.lwjgl3"
         },
         {
@@ -103,7 +103,7 @@
         },
         {
             "name": "Risugami ModLoader",
-            "sha256": "3e1db3d6e45603a924f2ebec1bd20bf23e07ece405174f49611c502ebed8085f",
+            "sha256": "c0dcb630c8b3659d88440eb61151b59189d1ab0bad3b19229633759981ed910f",
             "uid": "risugami.modloader"
         },
         {

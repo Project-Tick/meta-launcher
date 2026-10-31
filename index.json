@@ -93,7 +93,7 @@
         },
         {
             "name": "Quilt Loader",
-            "sha256": "e54981840a2c154758015ae70429c94cfbd57791b35dc62ede945209bf7f747e",
+            "sha256": "b84a37bfb6897ce0b51c454347f4a408809f5f3443cc8ea801915dca59aba5ce",
             "uid": "org.quiltmc.quilt-loader"
         },
         {

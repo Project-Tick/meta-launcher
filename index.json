@@ -53,12 +53,12 @@
         },
         {
             "name": "Forge",
-            "sha256": "d7690765e9906392bf9a4220991ec9a434a21b238a9d030165216f67756b368d",
+            "sha256": "9154aa2ff6638f8b53dd521e3929cbbb8a1c0d55db0660f6ed0a9b0a0ec3df70",
             "uid": "net.minecraftforge"
         },
         {
             "name": "StationAPI",
-            "sha256": "c68be5983b8260e864b2abb2c24eac5cf6728ad3569c920c4ef69fec6c7f3387",
+            "sha256": "9251f314e940c07ad63e58bd18910eb4ef92a3498fbea410e4cad31d88703565",
             "uid": "net.modificationstation.stationloader"
         },
         {

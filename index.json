@@ -13,7 +13,7 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "308c533863f61ab5bf9b6eadc5a97048d2a29069a97efb4f26751f3d6ada3e98",
+            "sha256": "60cc888e2984feb5c2bf1ecb13159f88917901e7f4781d5f339fad64b54bcc58",
             "uid": "com.ibm.java"
         },
         {
@@ -28,7 +28,7 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "e335f45aa17071b92cd121f2bbe7f199721e6e91462cdb79ff2e7380be4be297",
+            "sha256": "832a58eecee801fd488550d634b30e35e745df22965708d5a556a550820e3ed5",
             "uid": "net.adoptium.java"
         },
         {
@@ -63,7 +63,7 @@
         },
         {
             "name": "NeoForge",
-            "sha256": "f1321872f105870f10502319c372aec407c937fb81f0ffb83856d5e7723815ce",
+            "sha256": "0aa2a3433b51814156f648128e0b03201f08fe240ba7b8330f11e31216feff24",
             "uid": "net.neoforged"
         },
         {

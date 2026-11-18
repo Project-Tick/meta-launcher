@@ -233,13 +233,13 @@
         },
         {
             "recommended": false,
-            "releaseTime": "2025-04-16T17:38:39+00:00",
+            "releaseTime": "2025-04-16T17:38:40+00:00",
             "requires": [
                 {
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "sha256": "9da2c01435923c70cd7eae3935c5f15fde534ae33de7eb5965d221ec4d020527",
+            "sha256": "4daf7a60176195940e0f12168998beb4b5a7f56a30e1d029ce7891376a981efb",
             "type": "release",
             "version": "0.16.14"
         },

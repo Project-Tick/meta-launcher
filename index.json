@@ -28,12 +28,12 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "df75ed0dc3e190936f96a980e789a914b9d48c63d5ba6d3739f82d5c6427a64e",
+            "sha256": "93a4a17cd78884dcea6c81fc466f8312df096eff664ffc1cf6cd5b1cf7b2efb8",
             "uid": "net.adoptium.java"
         },
         {
             "name": "Fabric Loader",
-            "sha256": "4a49abdcfaefa9f28501266946e7fa257f1a0c35fcf83fe4ffccb25dfd40bdd4",
+            "sha256": "b89bcdfee262e17b554d1e16b4776e1b06ef5a9131e8003bb0cf24a1f535fdad",
             "uid": "net.fabricmc.fabric-loader"
         },
         {
@@ -53,7 +53,7 @@
         },
         {
             "name": "Forge",
-            "sha256": "3b93a7cb7ee66ddb14bd3bc809bd4d8a37e490e2552aa85aa0e4be3d96451a57",
+            "sha256": "b1133d909d4249882e5aaf73642690540999f1039b438dd6f0ac1ee192b17ae6",
             "uid": "net.minecraftforge"
         },
         {
